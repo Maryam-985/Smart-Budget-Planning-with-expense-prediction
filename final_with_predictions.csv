@@ -1,0 +1,1007 @@
+date,amount,category,account,title,type,month,day,weekday,predicted_category
+2024-08-11 13:56:59.652,45.0,bills & fees,Savings Bank,karthik,EXPENSE,8,11,6,bills & fees
+2024-08-10 16:09:55.986,40.0,food & drinks,Cash,juice,EXPENSE,8,10,5,food & drinks
+2024-08-09 10:25:21.618,10.0,transport,Cash,tire,EXPENSE,8,9,4,transport
+2024-08-07 03:57:24.944,200.0,bills & fees,Savings Bank,baba,EXPENSE,8,7,2,bills & fees
+2024-08-04 13:07:41.831,500.0,bills & fees,Savings Bank,baba,EXPENSE,8,4,6,bills & fees
+2024-08-02 15:25:39.300,30.0,bills & fees,Salary Bank,grocery,EXPENSE,8,2,4,bills & fees
+2024-08-02 05:25:11.454,100.0,transport,Savings Bank,petrol,EXPENSE,8,2,4,transport
+2024-08-02 03:58:59.121,74.0,not defined,Cash,adjust balance,EXPENSE,8,2,4,not defined
+2024-08-02 03:56:52.237,102.0,not defined,Savings Bank,adjust balance,EXPENSE,8,2,4,not defined
+2024-08-01 13:47:08.112,152.0,bills & fees,Savings Bank,haircut,EXPENSE,8,1,3,bills & fees
+2024-08-01 13:46:53.758,500.0,bills & fees,Savings Bank,baba,EXPENSE,8,1,3,bills & fees
+2024-07-31 14:34:25.800,22.0,bills & fees,Savings Bank,print,EXPENSE,7,31,2,bills & fees
+2024-07-31 13:49:37.981,300.0,bills & fees,Savings Bank,license,EXPENSE,7,31,2,bills & fees
+2024-07-26 14:48:03.223,70.0,food & drinks,Savings Bank,noodles,EXPENSE,7,26,4,food & drinks
+2024-07-20 04:53:54.600,30.0,food & drinks,Cash,breakfast,EXPENSE,7,20,5,food & drinks
+2024-07-20 04:53:37.992,50.0,bills & fees,Cash,maa,EXPENSE,7,20,5,bills & fees
+2024-07-15 16:02:44.240,3.0,not defined,Cash,adjust balance,EXPENSE,7,15,0,not defined
+2024-07-15 08:50:27.789,3800.0,bills & fees,Savings Bank,rent,EXPENSE,7,15,0,bills & fees
+2024-07-14 14:26:20.654,171.0,bills & fees,Cash,grocery,EXPENSE,7,14,6,bills & fees
+2024-07-14 14:26:07.147,90.0,bills & fees,Cash,grocery,EXPENSE,7,14,6,bills & fees
+2024-07-12 15:50:33.462,300.0,bills & fees,Savings Bank,baba,EXPENSE,7,12,4,bills & fees
+2024-07-12 15:49:26.564,50.0,not defined,Cash,adjust balance,EXPENSE,7,12,4,not defined
+2024-07-12 13:29:24.460,50.0,not defined,Savings Bank,savings bank,EXPENSE,7,12,4,not defined
+2024-07-10 08:46:15.659,50.0,bills & fees,Cash,maa,EXPENSE,7,10,2,bills & fees
+2024-07-10 08:45:59.387,30.0,food & drinks,Cash,breakfast,EXPENSE,7,10,2,food & drinks
+2024-07-07 05:17:18.519,30.0,food & drinks,Salary Bank,breakfast,EXPENSE,7,7,6,food & drinks
+2024-07-03 16:49:38.345,199.0,bills & fees,Savings Bank,netflix,EXPENSE,7,3,2,bills & fees
+2024-07-03 08:20:57.694,200.0,bills & fees,Savings Bank,baba,EXPENSE,7,3,2,bills & fees
+2024-07-02 09:04:42.442,120.0,food & drinks,Cash,lunch,EXPENSE,7,2,1,food & drinks
+2024-07-01 14:37:19.760,500.0,bills & fees,Savings Bank,baba,EXPENSE,7,1,0,bills & fees
+2024-07-01 14:37:10.673,259.0,bills & fees,Savings Bank,recharge,EXPENSE,7,1,0,bills & fees
+2024-07-01 12:52:37.467,13.0,bills & fees,Salary Bank,printouts,EXPENSE,7,1,0,bills & fees
+2024-07-01 12:27:47.375,42.0,bills & fees,Cash,printouts,EXPENSE,7,1,0,bills & fees
+2024-06-30 15:25:49.013,520.0,food & drinks,Savings Bank,biryani,EXPENSE,6,30,6,food & drinks
+2024-06-30 15:25:39.318,60.0,food & drinks,Salary Bank,breakfast,EXPENSE,6,30,6,food & drinks
+2024-06-30 03:06:51.000,2000.0,bills & fees,Savings Bank,baba,EXPENSE,6,30,6,bills & fees
+2024-06-29 17:30:41.555,20.0,food & drinks,Cash,juice,EXPENSE,6,29,5,food & drinks
+2024-06-29 17:30:35.612,180.0,transport,Cash,cab,EXPENSE,6,29,5,transport
+2024-06-29 04:07:00.354,30.0,food & drinks,Cash,snacks,EXPENSE,6,29,5,food & drinks
+2024-06-29 04:06:02.094,20.0,food & drinks,Cash,chai,EXPENSE,6,29,5,transport
+2024-06-29 01:51:00.000,266.9,bills & fees,Savings Bank,recharge,EXPENSE,6,29,5,bills & fees
+2024-06-28 14:15:00.814,25.0,food & drinks,Cash,curd,EXPENSE,6,28,4,food & drinks
+2024-06-28 12:13:37.896,30.0,not defined,Cash,adjust balance,EXPENSE,6,28,4,not defined
+2024-06-28 12:12:54.777,10.0,food & drinks,Cash,tea,EXPENSE,6,28,4,food & drinks
+2024-06-28 08:03:54.409,10.0,food & drinks,Cash,water,EXPENSE,6,28,4,food & drinks
+2024-06-28 01:21:47.390,358.0,not defined,Cash,adjust balance,EXPENSE,6,28,4,not defined
+2024-06-27 14:46:47.643,40.0,food & drinks,Cash,water,EXPENSE,6,27,3,food & drinks
+2024-06-27 14:46:14.704,20.0,transport,Cash,bus,EXPENSE,6,27,3,transport
+2024-06-27 14:45:25.041,20.0,transport,Cash,metro,EXPENSE,6,27,3,transport
+2024-06-27 14:44:58.599,207.0,food & drinks,Cash,haldiram,EXPENSE,6,27,3,food & drinks
+2024-06-27 14:43:37.895,100.0,bills & fees,Cash,tickets victoria,EXPENSE,6,27,3,bills & fees
+2024-06-27 14:43:17.268,95.0,food & drinks,Cash,lunch,EXPENSE,6,27,3,food & drinks
+2024-06-27 14:42:56.410,50.0,transport,Cash,ferry,EXPENSE,6,27,3,transport
+2024-06-27 14:42:45.061,500.0,bills & fees,Cash,baba,EXPENSE,6,27,3,bills & fees
+2024-06-27 14:42:09.168,150.0,bills & fees,Savings Bank,museum,EXPENSE,6,27,3,transport
+2024-06-27 14:35:22.527,20.0,transport,Cash,bus,EXPENSE,6,27,3,transport
+2024-06-27 14:33:37.949,10.0,transport,Salary Bank,metro,EXPENSE,6,27,3,transport
+2024-06-27 13:24:27.059,200.0,bills & fees,Cash,grocery,EXPENSE,6,27,3,bills & fees
+2024-06-26 16:20:10.049,200.0,transport,Salary Bank,cab,EXPENSE,6,26,2,transport
+2024-06-26 14:34:00.000,20.0,transport,Salary Bank,train,EXPENSE,6,26,2,transport
+2024-06-24 01:42:02.212,20.0,bills & fees,Salary Bank,tickets,EXPENSE,6,24,0,bills & fees
+2024-06-23 15:49:22.486,240.0,bills & fees,Salary Bank,maa stuff,EXPENSE,6,23,6,bills & fees
+2024-06-23 15:26:55.087,20.0,transport,Salary Bank,toto,EXPENSE,6,23,6,transport
+2024-06-23 15:20:07.076,70.0,food & drinks,Salary Bank,snacks,EXPENSE,6,23,6,food & drinks
+2024-06-23 15:18:18.631,102.0,not defined,Salary Bank,adjust balance,EXPENSE,6,23,6,not defined
+2024-06-23 14:44:54.072,44.0,food & drinks,Salary Bank,snacks,EXPENSE,6,23,6,food & drinks
+2024-06-23 08:19:55.534,600.0,bills & fees,Salary Bank,shaka pola,EXPENSE,6,23,6,transport
+2024-06-21 15:16:00.000,40.0,transport,Salary Bank,tickets,EXPENSE,6,21,4,bills & fees
+2024-06-20 12:39:19.568,60.0,not defined,Salary Bank,adjust balance,EXPENSE,6,20,3,not defined
+2024-06-20 12:30:33.462,20.0,food & drinks,Salary Bank,lunch,EXPENSE,6,20,3,food & drinks
+2024-06-20 12:30:04.622,259.0,bills & fees,Salary Bank,recharge,EXPENSE,6,20,3,bills & fees
+2024-06-19 12:34:00.000,20.0,bills & fees,Salary Bank,shave,EXPENSE,6,19,2,bills & fees
+2024-06-17 15:10:03.406,20.0,food & drinks,Cash,water,EXPENSE,6,17,0,food & drinks
+2024-06-17 14:56:11.086,260.0,transport,Cash,tickets,EXPENSE,6,17,0,bills & fees
+2024-06-17 12:22:07.086,20.0,food & drinks,Cash,water,EXPENSE,6,17,0,food & drinks
+2024-06-17 08:10:41.282,250.0,food & drinks,Salary Bank,lunch,EXPENSE,6,17,0,food & drinks
+2024-06-17 05:15:33.151,120.0,not defined,Cash,adjust balance,EXPENSE,6,17,0,not defined
+2024-06-16 23:32:32.665,500.0,bills & fees,Cash,baba,EXPENSE,6,16,6,bills & fees
+2024-06-16 08:17:00.000,170.0,transport,Salary Bank,cab,EXPENSE,6,16,6,transport
+2024-06-16 07:45:50.967,200.0,food & drinks,Salary Bank,snacks,EXPENSE,6,16,6,food & drinks
+2024-06-16 07:45:35.414,500.0,bills & fees,Cash,chotu,EXPENSE,6,16,6,bills & fees
+2024-06-16 07:45:01.144,1702.7,bills & fees,Salary Bank,tickets,EXPENSE,6,16,6,bills & fees
+2024-06-15 18:30:01.003,500.0,bills & fees,Salary Bank,baba,EXPENSE,6,15,5,bills & fees
+2024-06-14 18:29:00.000,100.0,transport,Cash,petrol,EXPENSE,6,14,4,transport
+2024-06-14 03:57:50.574,100.0,transport,Salary Bank,petrol,EXPENSE,6,14,4,transport
+2024-06-13 15:22:37.432,208.5,food & drinks,Salary Bank,snacks,EXPENSE,6,13,3,food & drinks
+2024-06-13 15:22:05.293,200.0,transport,Salary Bank,petrol,EXPENSE,6,13,3,transport
+2024-06-11 08:25:03.581,10.0,food & drinks,Salary Bank,chips,EXPENSE,6,11,1,food & drinks
+2024-06-10 05:26:27.942,30.0,food & drinks,Salary Bank,breakfast,EXPENSE,6,10,0,food & drinks
+2024-06-09 05:26:00.000,200.0,transport,Salary Bank,petrol,EXPENSE,6,9,6,transport
+2024-06-09 05:24:00.000,799.0,bills & fees,Salary Bank,clothes,EXPENSE,6,9,6,bills & fees
+2024-06-09 05:21:00.000,198.88,food & drinks,Salary Bank,snacks,EXPENSE,6,9,6,food & drinks
+2024-06-07 16:56:39.988,500.0,bills & fees,Salary Bank,baba,EXPENSE,6,7,4,bills & fees
+2024-06-07 16:56:30.798,90.0,food & drinks,Salary Bank,snacks,EXPENSE,6,7,4,food & drinks
+2024-06-07 16:56:18.253,100.0,bills & fees,Salary Bank,sriya,EXPENSE,6,7,4,bills & fees
+2024-06-07 16:56:10.389,100.0,transport,Salary Bank,petrol,EXPENSE,6,7,4,transport
+2024-06-05 14:47:55.268,175.0,bills & fees,Salary Bank,grocery,EXPENSE,6,5,2,bills & fees
+2024-06-05 13:59:13.995,200.0,bills & fees,Savings Bank,netflix,EXPENSE,6,5,2,bills & fees
+2024-06-05 05:29:00.000,30.0,food & drinks,Salary Bank,snacks,EXPENSE,6,5,2,food & drinks
+2024-06-05 04:36:19.506,67.0,not defined,Cash,adjust balance,EXPENSE,6,5,2,not defined
+2024-06-05 04:33:40.272,155.0,bills & fees,Savings Bank,chotu,EXPENSE,6,5,2,bills & fees
+2024-06-05 04:31:51.877,10.0,not defined,Salary Bank,adjust balance,EXPENSE,6,5,2,not defined
+2024-06-05 04:31:24.237,199.0,bills & fees,Salary Bank,netflix,EXPENSE,6,5,2,bills & fees
+2024-06-04 03:35:41.791,200.0,bills & fees,Salary Bank,baba,EXPENSE,6,4,1,bills & fees
+2024-06-03 12:36:00.077,90.0,food & drinks,Cash,snacks,EXPENSE,6,3,0,food & drinks
+2024-06-03 05:07:41.196,300.0,bills & fees,Savings Bank,goje,EXPENSE,6,3,0,food & drinks
+2024-06-03 05:04:36.556,100.0,transport,Salary Bank,petrol,EXPENSE,6,3,0,transport
+2024-05-31 03:09:00.000,520.0,food & drinks,Savings Bank,biryani,EXPENSE,5,31,4,food & drinks
+2024-05-31 03:08:00.000,54.0,not defined,Salary Bank,adjust balance,EXPENSE,5,31,4,not defined
+2024-05-31 03:03:00.000,30.0,food & drinks,Salary Bank,juice,EXPENSE,5,31,4,food & drinks
+2024-05-31 03:03:00.000,100.0,transport,Salary Bank,petrol,EXPENSE,5,31,4,transport
+2024-05-31 03:01:00.000,10.0,bills & fees,Cash,smthng,EXPENSE,5,31,4,bills & fees
+2024-05-30 14:19:51.971,190.0,food & drinks,Salary Bank,pizza,EXPENSE,5,30,3,food & drinks
+2024-05-30 08:34:31.739,1000.0,bills & fees,Savings Bank,baba,EXPENSE,5,30,3,bills & fees
+2024-05-29 11:05:25.670,35.0,food & drinks,Salary Bank,snacks,EXPENSE,5,29,2,food & drinks
+2024-05-29 04:26:59.011,30.0,food & drinks,Salary Bank,breakfast,EXPENSE,5,29,2,food & drinks
+2024-05-28 14:50:27.897,160.0,bills & fees,Salary Bank,shirt,EXPENSE,5,28,1,bills & fees
+2024-05-28 14:49:47.594,30.0,transport,Cash,bus,EXPENSE,5,28,1,transport
+2024-05-28 14:49:32.484,35.0,food & drinks,Salary Bank,juice,EXPENSE,5,28,1,food & drinks
+2024-05-28 14:48:52.931,20.0,transport,Cash,auto,EXPENSE,5,28,1,transport
+2024-05-27 15:14:02.274,155.0,bills & fees,Salary Bank,recharge,EXPENSE,5,27,0,bills & fees
+2024-05-27 15:13:47.982,500.0,bills & fees,Salary Bank,chotu,EXPENSE,5,27,0,bills & fees
+2024-05-27 12:09:12.844,56.0,not defined,Salary Bank,adjust balance,EXPENSE,5,27,0,not defined
+2024-05-27 12:08:00.000,30.0,food & drinks,Salary Bank,snacks,EXPENSE,5,27,0,food & drinks
+2024-05-26 12:49:22.743,4.0,bills & fees,Cash,shampoo,EXPENSE,5,26,6,bills & fees
+2024-05-26 12:08:00.000,250.0,bills & fees,Salary Bank,petrol,EXPENSE,5,26,6,transport
+2024-05-26 12:08:00.000,20.0,bills & fees,Salary Bank,stationary,EXPENSE,5,26,6,bills & fees
+2024-05-25 15:20:10.319,20.0,food & drinks,Salary Bank,ice cream,EXPENSE,5,25,5,food & drinks
+2024-05-25 15:19:41.615,60.0,food & drinks,Salary Bank,snacks,EXPENSE,5,25,5,food & drinks
+2024-05-25 08:21:43.140,70.0,food & drinks,Salary Bank,lunch,EXPENSE,5,25,5,food & drinks
+2024-05-25 08:21:34.647,20.0,transport,Salary Bank,auto,EXPENSE,5,25,5,transport
+2024-05-24 08:43:00.000,40.0,transport,Cash,bus,EXPENSE,5,24,4,transport
+2024-05-24 08:20:00.000,20.0,transport,Salary Bank,auto,EXPENSE,5,24,4,transport
+2024-05-24 08:20:00.000,30.0,food & drinks,Salary Bank,juice,EXPENSE,5,24,4,food & drinks
+2024-05-24 06:37:00.000,555.0,bills & fees,Salary Bank,printing,EXPENSE,5,24,4,bills & fees
+2024-05-23 04:48:28.675,30.0,food & drinks,Salary Bank,breakfast,EXPENSE,5,23,3,food & drinks
+2024-05-21 16:32:00.000,259.0,bills & fees,Salary Bank,recharge,EXPENSE,5,21,1,bills & fees
+2024-05-21 16:32:00.000,470.82,bills & fees,Salary Bank,internet,EXPENSE,5,21,1,transport
+2024-05-21 16:09:59.066,10.0,food & drinks,Salary Bank,juice,EXPENSE,5,21,1,food & drinks
+2024-05-21 16:09:46.701,50.0,bills & fees,Salary Bank,brake,EXPENSE,5,21,1,transport
+2024-05-21 16:09:35.189,35.0,food & drinks,Salary Bank,ice cream,EXPENSE,5,21,1,food & drinks
+2024-05-21 16:09:22.620,100.0,transport,Salary Bank,petrol,EXPENSE,5,21,1,transport
+2024-05-21 16:07:26.434,40.0,not defined,Cash,adjust balance,EXPENSE,5,21,1,not defined
+2024-05-20 16:08:00.000,75.0,food & drinks,Salary Bank,juice,EXPENSE,5,20,0,food & drinks
+2024-05-20 16:08:00.000,20.0,food & drinks,Salary Bank,juice,EXPENSE,5,20,0,food & drinks
+2024-05-19 16:01:00.286,1341.8,bills & fees,Salary Bank,tickets,EXPENSE,5,19,6,bills & fees
+2024-05-19 16:00:35.999,1341.8,bills & fees,Salary Bank,tickets,EXPENSE,5,19,6,bills & fees
+2024-05-19 15:41:26.721,14.0,food & drinks,Salary Bank,maggi,EXPENSE,5,19,6,food & drinks
+2024-05-17 04:12:00.000,30.0,food & drinks,Salary Bank,breakfast,EXPENSE,5,17,4,food & drinks
+2024-05-16 04:11:00.000,30.0,food & drinks,Salary Bank,breakfast,EXPENSE,5,16,3,food & drinks
+2024-05-15 17:52:40.255,130.0,food & drinks,Salary Bank,juice,EXPENSE,5,15,2,food & drinks
+2024-05-15 17:52:10.428,220.0,food & drinks,Salary Bank,shawarma,EXPENSE,5,15,2,food & drinks
+2024-05-15 17:51:58.694,35.0,transport,Metro Card,rta,EXPENSE,5,15,2,transport
+2024-05-15 08:17:35.531,10.0,transport,Cash,bus,EXPENSE,5,15,2,transport
+2024-05-15 08:17:02.946,35.0,transport,Salary Bank,atr,EXPENSE,5,15,2,transport
+2024-05-14 17:55:02.389,10.0,food & drinks,Cash,juice,EXPENSE,5,14,1,food & drinks
+2024-05-14 17:54:56.837,20.0,transport,Cash,bus,EXPENSE,5,14,1,transport
+2024-05-14 17:54:47.434,35.0,transport,Metro Card,rta,EXPENSE,5,14,1,transport
+2024-05-14 17:54:46.663,35.0,transport,Metro Card,atr,EXPENSE,5,14,1,transport
+2024-05-12 17:55:00.000,30.0,food & drinks,Salary Bank,snacks,EXPENSE,5,12,6,food & drinks
+2024-05-10 13:40:00.000,60.0,food & drinks,Salary Bank,snacks,EXPENSE,5,10,4,food & drinks
+2024-05-10 12:20:52.330,35.0,transport,Metro Card,rta,EXPENSE,5,10,4,transport
+2024-05-10 12:20:51.356,35.0,transport,Metro Card,atr,EXPENSE,5,10,4,transport
+2024-05-09 14:04:51.085,1400.0,bills & fees,Salary Bank,screen,EXPENSE,5,9,3,bills & fees
+2024-05-09 14:04:30.298,20.0,food & drinks,Salary Bank,snacks,EXPENSE,5,9,3,food & drinks
+2024-05-09 14:04:20.041,30.0,food & drinks,Salary Bank,breakfast,EXPENSE,5,9,3,food & drinks
+2024-05-08 04:14:00.000,80.0,food & drinks,Salary Bank,juice,EXPENSE,5,8,2,food & drinks
+2024-05-08 04:14:00.000,10.0,transport,Cash,bus,EXPENSE,5,8,2,transport
+2024-05-08 04:13:00.000,35.0,transport,Metro Card,rta,EXPENSE,5,8,2,transport
+2024-05-08 03:46:18.433,35.0,transport,Metro Card,atr,EXPENSE,5,8,2,transport
+2024-05-08 03:46:14.380,10.0,transport,Cash,bus,EXPENSE,5,8,2,transport
+2024-05-07 13:46:21.123,35.0,transport,Metro Card,rta,EXPENSE,5,7,1,transport
+2024-05-07 13:46:19.740,35.0,transport,Metro Card,atr,EXPENSE,5,7,1,transport
+2024-05-07 03:46:00.000,120.0,food & drinks,Salary Bank,shawarma,EXPENSE,5,7,1,food & drinks
+2024-05-07 03:45:00.000,10.0,transport,Cash,bus,EXPENSE,5,7,1,transport
+2024-05-06 15:16:28.152,10.0,transport,Cash,bus,EXPENSE,5,6,0,transport
+2024-05-06 15:15:51.819,100.0,bills & fees,Salary Bank,petrol,EXPENSE,5,6,0,transport
+2024-05-06 15:15:41.755,35.0,transport,Metro Card,rta,EXPENSE,5,6,0,transport
+2024-05-06 15:15:40.067,35.0,transport,Metro Card,atr,EXPENSE,5,6,0,transport
+2024-05-06 08:43:44.835,40.0,food & drinks,Salary Bank,juice,EXPENSE,5,6,0,food & drinks
+2024-05-06 08:43:34.035,100.0,food & drinks,Salary Bank,lunch,EXPENSE,5,6,0,food & drinks
+2024-05-06 03:22:18.337,30.0,not defined,Cash,adjust balance,EXPENSE,5,6,0,not defined
+2024-05-04 03:27:00.000,200.0,transport,Salary Bank,petrol,EXPENSE,5,4,5,transport
+2024-05-04 03:27:00.000,20.0,bills & fees,Salary Bank,medic,EXPENSE,5,4,5,bills & fees
+2024-05-03 03:26:00.000,100.0,transport,Salary Bank,petrol,EXPENSE,5,3,4,transport
+2024-05-03 03:26:00.000,266.9,bills & fees,Salary Bank,recharge,EXPENSE,5,3,4,bills & fees
+2024-05-03 03:26:00.000,50.0,transport,Salary Bank,petrol,EXPENSE,5,3,4,transport
+2024-05-02 06:59:13.423,2000.0,bills & fees,Salary Bank,exam fees,EXPENSE,5,2,3,bills & fees
+2024-05-02 06:59:01.605,80.0,food & drinks,Salary Bank,juice,EXPENSE,5,2,3,food & drinks
+2024-05-02 06:58:52.514,10.0,transport,Cash,bus,EXPENSE,5,2,3,transport
+2024-05-02 06:58:47.253,20.0,transport,Cash,auto,EXPENSE,5,2,3,transport
+2024-05-02 03:25:00.000,80.0,food & drinks,Salary Bank,juice,EXPENSE,5,2,3,food & drinks
+2024-05-02 03:25:00.000,30.0,food & drinks,Salary Bank,snacks,EXPENSE,5,2,3,food & drinks
+2024-05-02 01:49:07.739,199.0,bills & fees,Salary Bank,netflix,EXPENSE,5,2,3,bills & fees
+2024-05-02 01:46:00.656,5000.0,bills & fees,Salary Bank,baba,EXPENSE,5,2,3,bills & fees
+2024-05-01 16:01:11.889,30.0,not defined,Salary Bank,adjust balance,EXPENSE,5,1,2,not defined
+2024-05-01 16:00:51.168,155.0,bills & fees,Salary Bank,recharge,EXPENSE,5,1,2,bills & fees
+2024-05-01 16:00:00.363,60.0,food & drinks,Salary Bank,juice,EXPENSE,5,1,2,food & drinks
+2024-05-01 15:57:45.381,35.0,transport,Cash,rta,EXPENSE,5,1,2,transport
+2024-05-01 03:50:02.977,35.0,transport,Metro Card,atr,EXPENSE,5,1,2,transport
+2024-05-01 03:25:35.843,30.0,food & drinks,Salary Bank,water,EXPENSE,5,1,2,food & drinks
+2024-04-30 14:49:49.288,10.0,transport,Cash,bus,EXPENSE,4,30,1,transport
+2024-04-30 14:49:41.429,35.0,transport,Salary Bank,atr,EXPENSE,4,30,1,transport
+2024-04-30 14:49:29.643,35.0,transport,Salary Bank,rta,EXPENSE,4,30,1,transport
+2024-04-30 02:03:00.000,90.0,food & drinks,Salary Bank,juice,EXPENSE,4,30,1,food & drinks
+2024-04-29 18:43:47.723,10.0,transport,Cash,bus,EXPENSE,4,29,0,transport
+2024-04-29 18:43:40.127,35.0,transport,Salary Bank,rta,EXPENSE,4,29,0,transport
+2024-04-29 12:05:51.225,80.0,not defined,Cash,adjust balance,EXPENSE,4,29,0,not defined
+2024-04-29 08:51:18.570,10.0,transport,Cash,bus,EXPENSE,4,29,0,transport
+2024-04-29 08:51:06.330,35.0,transport,Salary Bank,atr,EXPENSE,4,29,0,transport
+2024-04-28 15:27:48.931,500.0,bills & fees,Salary Bank,baba,EXPENSE,4,28,6,bills & fees
+2024-04-28 14:17:36.623,30.0,food & drinks,Salary Bank,breakfast,EXPENSE,4,28,6,food & drinks
+2024-04-27 14:17:00.000,40.0,bills & fees,Salary Bank,milk,EXPENSE,4,27,5,bills & fees
+2024-04-27 14:16:00.000,90.0,food & drinks,Salary Bank,snacks,EXPENSE,4,27,5,food & drinks
+2024-04-27 14:15:00.000,60.0,food & drinks,Salary Bank,water,EXPENSE,4,27,5,food & drinks
+2024-04-27 14:07:00.000,120.0,food & drinks,Salary Bank,juice,EXPENSE,4,27,5,food & drinks
+2024-04-27 14:06:00.000,60.0,food & drinks,Salary Bank,water,EXPENSE,4,27,5,food & drinks
+2024-04-27 14:06:00.000,100.0,food & drinks,Salary Bank,lunch,EXPENSE,4,27,5,food & drinks
+2024-04-27 14:04:00.000,100.0,transport,Salary Bank,petrol,EXPENSE,4,27,5,transport
+2024-04-26 14:04:00.000,49.0,food & drinks,Salary Bank,juice,EXPENSE,4,26,4,food & drinks
+2024-04-26 14:04:00.000,500.0,bills & fees,Salary Bank,chotu,EXPENSE,4,26,4,bills & fees
+2024-04-26 14:03:00.000,10.0,food & drinks,Salary Bank,snacks,EXPENSE,4,26,4,food & drinks
+2024-04-26 14:03:00.000,49.0,food & drinks,Salary Bank,drink,EXPENSE,4,26,4,food & drinks
+2024-04-26 14:03:00.000,120.0,food & drinks,Salary Bank,lunch,EXPENSE,4,26,4,food & drinks
+2024-04-26 14:02:00.000,60.0,food & drinks,Salary Bank,water,EXPENSE,4,26,4,food & drinks
+2024-04-26 14:01:00.000,100.0,transport,Salary Bank,petrol,EXPENSE,4,26,4,transport
+2024-04-25 14:01:00.000,20.0,food & drinks,Salary Bank,snacks,EXPENSE,4,25,3,food & drinks
+2024-04-25 14:00:00.000,100.0,transport,Salary Bank,petrol,EXPENSE,4,25,3,transport
+2024-04-24 14:00:00.000,699.0,bills & fees,Salary Bank,shirt,EXPENSE,4,24,2,bills & fees
+2024-04-24 13:42:04.617,100.0,transport,Salary Bank,petrol,EXPENSE,4,24,2,transport
+2024-04-24 13:41:51.834,50.0,transport,Salary Bank,petrol,EXPENSE,4,24,2,transport
+2024-04-24 13:41:40.008,60.0,food & drinks,Salary Bank,snacks,EXPENSE,4,24,2,food & drinks
+2024-04-23 17:13:53.508,795.0,food & drinks,Salary Bank,team lunch,EXPENSE,4,23,1,food & drinks
+2024-04-23 14:43:27.195,20.0,transport,Cash,bus,EXPENSE,4,23,1,transport
+2024-04-23 14:40:43.848,35.0,transport,Metro Card,rta,EXPENSE,4,23,1,transport
+2024-04-23 14:40:43.047,35.0,transport,Metro Card,atr,EXPENSE,4,23,1,transport
+2024-04-22 14:43:00.000,10.0,transport,Cash,bus,EXPENSE,4,22,0,transport
+2024-04-22 14:41:00.000,35.0,transport,Metro Card,rta,EXPENSE,4,22,0,transport
+2024-04-22 14:41:00.000,430.0,transport,Salary Bank,bus pass,EXPENSE,4,22,0,transport
+2024-04-22 04:55:34.117,259.0,bills & fees,Salary Bank,recharge,EXPENSE,4,22,0,bills & fees
+2024-04-22 04:49:49.403,20.0,not defined,Salary Bank,settlement,EXPENSE,4,22,0,transport
+2024-04-22 04:49:11.195,20.0,not defined,Cash,adjust balance,EXPENSE,4,22,0,not defined
+2024-04-22 04:48:34.081,30.0,transport,Cash,bus,EXPENSE,4,22,0,transport
+2024-04-22 04:47:21.338,35.0,transport,Metro Card,atr,EXPENSE,4,22,0,transport
+2024-04-21 04:47:00.000,40.0,food & drinks,Salary Bank,juice,EXPENSE,4,21,6,food & drinks
+2024-04-21 04:47:00.000,70.0,food & drinks,Cash,manchuria,EXPENSE,4,21,6,food & drinks
+2024-04-21 03:26:06.969,25.0,food & drinks,Salary Bank,breakfast,EXPENSE,4,21,6,food & drinks
+2024-04-21 03:25:59.594,100.0,transport,Salary Bank,petrol,EXPENSE,4,21,6,transport
+2024-04-21 03:25:50.659,10.0,bills & fees,Cash,tyre,EXPENSE,4,21,6,bills & fees
+2024-04-20 18:28:32.596,799.0,bills & fees,Salary Bank,shirt,EXPENSE,4,20,5,bills & fees
+2024-04-20 18:28:20.117,83.0,food & drinks,Salary Bank,burrito,EXPENSE,4,20,5,food & drinks
+2024-04-20 18:27:48.295,88.01,food & drinks,Salary Bank,ice cream,EXPENSE,4,20,5,food & drinks
+2024-04-20 01:58:00.000,30.0,food & drinks,Cash,water,EXPENSE,4,20,5,food & drinks
+2024-04-19 08:03:00.699,10.0,transport,Cash,bus,EXPENSE,4,19,4,transport
+2024-04-19 08:02:45.501,35.0,transport,Metro Card,rta,EXPENSE,4,19,4,transport
+2024-04-19 08:02:43.381,35.0,transport,Metro Card,atr,EXPENSE,4,19,4,transport
+2024-04-18 16:46:10.130,75.0,food & drinks,Salary Bank,snacks,EXPENSE,4,18,3,food & drinks
+2024-04-18 16:45:14.900,130.0,food & drinks,Salary Bank,snacks,EXPENSE,4,18,3,food & drinks
+2024-04-17 15:36:48.740,5.0,not defined,Cash,cash,EXPENSE,4,17,2,transport
+2024-04-17 04:00:52.496,35.0,transport,Cash,atr,EXPENSE,4,17,2,transport
+2024-04-16 12:38:52.794,35.0,transport,Metro Card,rta,EXPENSE,4,16,1,transport
+2024-04-16 07:09:53.181,10.0,transport,Cash,bus,EXPENSE,4,16,1,transport
+2024-04-16 07:09:46.768,35.0,transport,Metro Card,atr,EXPENSE,4,16,1,transport
+2024-04-15 14:59:31.037,10.0,transport,Cash,bus,EXPENSE,4,15,0,transport
+2024-04-15 14:59:23.954,35.0,transport,Metro Card,rta,EXPENSE,4,15,0,transport
+2024-04-15 14:59:21.617,60.0,food & drinks,Salary Bank,snacks,EXPENSE,4,15,0,food & drinks
+2024-04-15 12:38:00.000,616.32,bills & fees,Salary Bank,domain,EXPENSE,4,15,0,bills & fees
+2024-04-15 06:55:17.895,35.0,transport,Metro Card,atr,EXPENSE,4,15,0,transport
+2024-04-15 06:55:10.570,10.0,transport,Cash,bus,EXPENSE,4,15,0,transport
+2024-04-14 16:42:19.952,30.0,food & drinks,Salary Bank,breakfast,EXPENSE,4,14,6,food & drinks
+2024-04-12 15:16:13.135,20.0,transport,Cash,bus,EXPENSE,4,12,4,transport
+2024-04-12 12:47:39.692,35.0,transport,Metro Card,rta,EXPENSE,4,12,4,transport
+2024-04-12 12:47:37.044,35.0,transport,Metro Card,atr,EXPENSE,4,12,4,transport
+2024-04-12 03:11:12.881,40.0,not defined,Metro Card,adjust balance,EXPENSE,4,12,4,not defined
+2024-04-10 13:03:30.729,35.0,transport,Metro Card,rta,EXPENSE,4,10,2,transport
+2024-04-10 04:25:25.680,30.0,not defined,Cash,adjust balance,EXPENSE,4,10,2,not defined
+2024-04-10 04:24:13.571,70.99,not defined,Salary Bank,adjust balance,EXPENSE,4,10,2,not defined
+2024-04-10 04:21:51.672,1000.0,bills & fees,Salary Bank,gym,EXPENSE,4,10,2,bills & fees
+2024-04-10 04:21:38.710,35.0,transport,Metro Card,atr,EXPENSE,4,10,2,transport
+2024-04-10 03:10:00.000,140.0,food & drinks,Salary Bank,shawarma,EXPENSE,4,10,2,food & drinks
+2024-04-08 10:36:18.446,35.0,transport,Metro Card,atr,EXPENSE,4,8,0,transport
+2024-04-08 10:36:12.580,10.0,transport,Cash,bus,EXPENSE,4,8,0,transport
+2024-04-07 14:17:41.212,30.0,food & drinks,Salary Bank,breakfast,EXPENSE,4,7,6,food & drinks
+2024-04-07 14:17:28.139,250.0,bills & fees,Salary Bank,fest,EXPENSE,4,7,6,bills & fees
+2024-04-06 03:42:00.000,10.0,food & drinks,Salary Bank,juice,EXPENSE,4,6,5,food & drinks
+2024-04-06 03:41:00.000,10.0,transport,Cash,bus,EXPENSE,4,6,5,transport
+2024-04-06 03:41:00.000,30.0,food & drinks,Salary Bank,juice,EXPENSE,4,6,5,food & drinks
+2024-04-06 03:40:00.000,20.0,transport,Cash,auto,EXPENSE,4,6,5,transport
+2024-04-05 13:25:05.480,30.0,food & drinks,Salary Bank,juice,EXPENSE,4,5,4,food & drinks
+2024-04-05 13:24:56.623,35.0,transport,Metro Card,rta,EXPENSE,4,5,4,transport
+2024-04-05 08:47:42.107,309.84,bills & fees,Salary Bank,wow,EXPENSE,4,5,4,transport
+2024-04-05 05:34:22.364,25.0,food & drinks,Salary Bank,juice,EXPENSE,4,5,4,food & drinks
+2024-04-05 05:34:05.807,35.0,transport,Metro Card,atr,EXPENSE,4,5,4,transport
+2024-04-04 08:37:47.351,75.0,food & drinks,Salary Bank,snacks,EXPENSE,4,4,3,food & drinks
+2024-04-04 03:43:27.547,100.0,bills & fees,Salary Bank,petrol,EXPENSE,4,4,3,transport
+2024-04-03 10:25:10.802,10.0,transport,Cash,bus,EXPENSE,4,3,2,transport
+2024-04-03 10:23:49.761,35.0,transport,Metro Card,atr,EXPENSE,4,3,2,transport
+2024-04-02 10:24:00.000,35.0,transport,Metro Card,atr,EXPENSE,4,2,1,transport
+2024-04-02 10:24:00.000,35.0,transport,Metro Card,rta,EXPENSE,4,2,1,transport
+2024-04-02 10:24:00.000,10.0,food & drinks,Cash,juice,EXPENSE,4,2,1,food & drinks
+2024-04-02 10:24:00.000,60.0,food & drinks,Cash,juice,EXPENSE,4,2,1,food & drinks
+2024-04-02 03:33:39.883,10.0,transport,Cash,bus,EXPENSE,4,2,1,transport
+2024-04-01 18:29:57.016,199.0,bills & fees,Savings Bank,netflix,EXPENSE,4,1,0,bills & fees
+2024-04-01 18:28:27.576,3000.0,bills & fees,Savings Bank,chotu,EXPENSE,4,1,0,bills & fees
+2024-04-01 18:18:27.349,160.0,food & drinks,Salary Bank,snacks,EXPENSE,4,1,0,food & drinks
+2024-04-01 15:09:51.209,50.0,food & drinks,Salary Bank,juice,EXPENSE,4,1,0,food & drinks
+2024-04-01 03:17:56.352,50.0,not defined,Cash,adjust balance,EXPENSE,4,1,0,not defined
+2024-03-31 18:34:00.000,35.0,transport,Metro Card,atr,EXPENSE,3,31,6,transport
+2024-03-31 18:34:00.000,10.0,transport,Cash,bus,EXPENSE,3,31,6,transport
+2024-03-31 17:00:28.422,1700.0,bills & fees,Salary Bank,baba,EXPENSE,3,31,6,bills & fees
+2024-03-31 13:58:13.008,2499.0,bills & fees,Salary Bank,shoes,EXPENSE,3,31,6,transport
+2024-03-31 12:45:00.691,150.0,bills & fees,Salary Bank,haircut,EXPENSE,3,31,6,bills & fees
+2024-03-30 03:09:01.045,100.0,bills & fees,Cash,chotu,EXPENSE,3,30,5,bills & fees
+2024-03-29 18:47:00.000,90.0,food & drinks,Salary Bank,snacks,EXPENSE,3,29,4,food & drinks
+2024-03-29 15:27:48.850,13000.0,bills & fees,Salary Bank,maa,EXPENSE,3,29,4,bills & fees
+2024-03-29 15:27:39.829,60.0,food & drinks,Salary Bank,breakfast,EXPENSE,3,29,4,food & drinks
+2024-03-28 11:31:59.355,100.0,bills & fees,Salary Bank,petrol,EXPENSE,3,28,3,transport
+2024-03-28 10:58:48.815,250.0,food & drinks,Salary Bank,snacks,EXPENSE,3,28,3,food & drinks
+2024-03-28 06:39:45.408,5.0,not defined,Salary Bank,settle,EXPENSE,3,28,3,transport
+2024-03-27 15:39:26.573,70.0,food & drinks,Cash,ice cream,EXPENSE,3,27,2,food & drinks
+2024-03-26 16:59:57.985,40.0,food & drinks,Salary Bank,juice,EXPENSE,3,26,1,food & drinks
+2024-03-26 16:59:46.122,20.0,transport,Cash,auto,EXPENSE,3,26,1,transport
+2024-03-25 15:53:52.918,10.0,transport,Cash,bus,EXPENSE,3,25,0,transport
+2024-03-25 13:17:40.044,10.0,transport,Cash,bus,EXPENSE,3,25,0,transport
+2024-03-25 13:17:15.511,35.0,transport,Metro Card,rta,EXPENSE,3,25,0,transport
+2024-03-25 13:17:13.755,35.0,transport,Metro Card,atr,EXPENSE,3,25,0,transport
+2024-03-24 16:40:59.707,105.0,not defined,Salary Bank,adjust balance,EXPENSE,3,24,6,not defined
+2024-03-22 13:26:42.165,30.0,transport,Cash,bus,EXPENSE,3,22,4,transport
+2024-03-22 13:26:34.794,10.0,food & drinks,Salary Bank,juice,EXPENSE,3,22,4,food & drinks
+2024-03-22 13:26:28.610,80.0,food & drinks,Salary Bank,snacks,EXPENSE,3,22,4,food & drinks
+2024-03-22 13:26:06.797,35.0,transport,Metro Card,rta,EXPENSE,3,22,4,transport
+2024-03-21 14:54:03.976,500.0,bills & fees,Salary Bank,baba,EXPENSE,3,21,3,bills & fees
+2024-03-21 10:09:12.859,259.0,bills & fees,Salary Bank,recharge,EXPENSE,3,21,3,bills & fees
+2024-03-21 10:05:14.371,230.0,bills & fees,Salary Bank,stonks,EXPENSE,3,21,3,bills & fees
+2024-03-21 10:04:54.277,200.0,transport,Salary Bank,petrol,EXPENSE,3,21,3,transport
+2024-03-19 18:44:00.000,35.0,transport,Metro Card,rta,EXPENSE,3,19,1,transport
+2024-03-19 18:43:00.000,25.0,food & drinks,Salary Bank,snacks,EXPENSE,3,19,1,food & drinks
+2024-03-19 07:06:00.000,35.0,transport,Metro Card,rta,EXPENSE,3,19,1,transport
+2024-03-19 07:06:00.000,260.0,food & drinks,Salary Bank,shawarma,EXPENSE,3,19,1,food & drinks
+2024-03-19 06:05:26.422,430.0,bills & fees,Salary Bank,bus pass,EXPENSE,3,19,1,transport
+2024-03-18 06:05:00.000,35.0,transport,Metro Card,rta,EXPENSE,3,18,0,transport
+2024-03-17 17:03:54.268,110.0,not defined,Cash,adjust balance,EXPENSE,3,17,6,not defined
+2024-03-16 18:40:00.000,30.0,food & drinks,Salary Bank,snacks,EXPENSE,3,16,5,food & drinks
+2024-03-16 01:55:57.271,3800.0,bills & fees,Salary Bank,rent,EXPENSE,3,16,5,bills & fees
+2024-03-15 18:39:00.000,40.0,food & drinks,Salary Bank,juice,EXPENSE,3,15,4,food & drinks
+2024-03-15 18:39:00.000,20.0,food & drinks,Salary Bank,snacks,EXPENSE,3,15,4,food & drinks
+2024-03-15 17:04:00.000,35.0,transport,Metro Card,rta,EXPENSE,3,15,4,transport
+2024-03-15 01:55:00.000,74.0,transport,Salary Bank,bike,EXPENSE,3,15,4,transport
+2024-03-14 01:54:00.000,105.0,food & drinks,Salary Bank,snacks,EXPENSE,3,14,3,food & drinks
+2024-03-13 01:53:00.000,30.0,food & drinks,Salary Bank,snacks,EXPENSE,3,13,2,food & drinks
+2024-03-13 01:52:00.000,8.0,bills & fees,Salary Bank,bandages,EXPENSE,3,13,2,transport
+2024-03-12 17:33:34.220,2000.0,bills & fees,Salary Bank,baba,EXPENSE,3,12,1,bills & fees
+2024-03-12 17:33:12.758,60.0,bills & fees,Salary Bank,doc,EXPENSE,3,12,1,bills & fees
+2024-03-12 17:33:00.145,90.0,food & drinks,Salary Bank,juice,EXPENSE,3,12,1,food & drinks
+2024-03-12 17:32:45.399,150.0,food & drinks,Salary Bank,shawarma,EXPENSE,3,12,1,food & drinks
+2024-03-12 17:32:28.109,30.0,food & drinks,Salary Bank,breakfast,EXPENSE,3,12,1,food & drinks
+2024-03-11 17:31:00.000,30.0,food & drinks,Salary Bank,jalebi,EXPENSE,3,11,0,food & drinks
+2024-03-10 17:30:00.000,9.0,bills & fees,Salary Bank,salary bank,EXPENSE,3,10,6,food & drinks
+2024-03-10 03:29:43.493,1000.0,bills & fees,Salary Bank,baba,EXPENSE,3,10,6,bills & fees
+2024-03-09 17:30:00.000,10.0,food & drinks,Salary Bank,juice,EXPENSE,3,9,5,food & drinks
+2024-03-09 03:29:00.000,200.0,transport,Salary Bank,petrol,EXPENSE,3,9,5,transport
+2024-03-08 10:13:57.611,10.0,food & drinks,Salary Bank,snacks,EXPENSE,3,8,4,food & drinks
+2024-03-08 10:12:12.982,30.0,food & drinks,Salary Bank,breakfast,EXPENSE,3,8,4,food & drinks
+2024-03-07 14:36:57.940,60.0,food & drinks,Salary Bank,snacks,EXPENSE,3,7,3,food & drinks
+2024-03-07 13:45:37.905,35.0,transport,Cash,rta,EXPENSE,3,7,3,transport
+2024-03-07 13:45:26.150,20.0,not defined,Cash,cash,EXPENSE,3,7,3,transport
+2024-03-07 05:21:42.255,25.0,not defined,Cash,adjust balance,EXPENSE,3,7,3,not defined
+2024-03-07 05:20:46.631,35.0,transport,Metro Card,atr,EXPENSE,3,7,3,transport
+2024-03-07 05:20:39.735,10.0,transport,Cash,bus,EXPENSE,3,7,3,transport
+2024-03-06 14:21:26.486,35.0,transport,Metro Card,rta,EXPENSE,3,6,2,transport
+2024-03-06 14:21:20.169,10.0,food & drinks,Cash,snacks,EXPENSE,3,6,2,food & drinks
+2024-03-06 06:37:05.798,35.0,transport,Metro Card,atr,EXPENSE,3,6,2,transport
+2024-03-06 06:36:57.627,125.0,food & drinks,Salary Bank,rb,EXPENSE,3,6,2,food & drinks
+2024-03-06 03:26:03.538,1000.0,bills & fees,Salary Bank,baba,EXPENSE,3,6,2,bills & fees
+2024-03-06 01:31:33.779,99.0,bills & fees,Salary Bank,netflix,EXPENSE,3,6,2,bills & fees
+2024-03-05 12:53:13.025,35.0,transport,Metro Card,atr,EXPENSE,3,5,1,transport
+2024-03-05 12:53:03.972,10.0,transport,Cash,bus,EXPENSE,3,5,1,transport
+2024-03-05 01:31:00.000,35.0,transport,Metro Card,rta,EXPENSE,3,5,1,transport
+2024-03-04 15:01:34.885,20.0,food & drinks,Salary Bank,snacks,EXPENSE,3,4,0,food & drinks
+2024-03-04 15:01:24.734,25.0,food & drinks,Salary Bank,snacks,EXPENSE,3,4,0,food & drinks
+2024-03-04 15:01:04.247,35.0,transport,Cash,rta,EXPENSE,3,4,0,transport
+2024-03-04 08:29:40.741,35.0,transport,Metro Card,atr,EXPENSE,3,4,0,transport
+2024-03-04 08:29:28.861,80.0,bills & fees,Cash,baba,EXPENSE,3,4,0,bills & fees
+2024-03-03 02:41:00.000,60.0,food & drinks,Salary Bank,snacks,EXPENSE,3,3,6,food & drinks
+2024-03-03 02:40:00.000,150.0,bills & fees,Salary Bank,laptop fixes,EXPENSE,3,3,6,bills & fees
+2024-03-03 02:40:00.000,100.0,food & drinks,Salary Bank,juice,EXPENSE,3,3,6,food & drinks
+2024-03-03 02:40:00.000,150.0,food & drinks,Salary Bank,snacks,EXPENSE,3,3,6,food & drinks
+2024-03-02 02:40:00.000,419.0,bills & fees,Salary Bank,cab,EXPENSE,3,2,5,transport
+2024-03-02 02:39:00.000,476.0,bills & fees,Salary Bank,can,EXPENSE,3,2,5,transport
+2024-03-02 02:39:00.000,2154.0,bills & fees,Salary Bank,dinner,EXPENSE,3,2,5,bills & fees
+2024-03-02 02:34:01.350,1000.0,bills & fees,Salary Bank,gym,EXPENSE,3,2,5,bills & fees
+2024-03-01 12:58:00.000,60.0,food & drinks,Salary Bank,snacks,EXPENSE,3,1,4,food & drinks
+2024-03-01 12:54:00.000,35.0,transport,Metro Card,atr,EXPENSE,3,1,4,transport
+2024-03-01 12:54:00.000,35.0,transport,Metro Card,rta,EXPENSE,3,1,4,transport
+2024-03-01 03:28:51.286,5000.0,bills & fees,Salary Bank,baba,EXPENSE,3,1,4,bills & fees
+2024-02-29 18:02:30.841,599.0,bills & fees,Salary Bank,fancode,EXPENSE,2,29,3,bills & fees
+2024-02-29 16:16:17.255,60.0,food & drinks,Salary Bank,snacks,EXPENSE,2,29,3,food & drinks
+2024-02-29 04:36:14.818,45.02,not defined,Savings Bank,adjust balance,EXPENSE,2,29,3,not defined
+2024-02-29 02:59:46.403,100.0,transport,Savings Bank,petrol,EXPENSE,2,29,3,transport
+2024-02-29 02:06:26.648,100.0,bills & fees,Cash,baba,EXPENSE,2,29,3,bills & fees
+2024-02-29 02:06:19.586,150.0,bills & fees,Cash,maa,EXPENSE,2,29,3,bills & fees
+2024-02-28 16:41:21.326,10.0,transport,Cash,bus,EXPENSE,2,28,2,transport
+2024-02-28 14:06:47.574,35.0,transport,Metro Card,rta,EXPENSE,2,28,2,transport
+2024-02-28 14:06:40.364,60.0,food & drinks,Savings Bank,snacks,EXPENSE,2,28,2,food & drinks
+2024-02-28 04:15:17.483,35.0,transport,Cash,atr,EXPENSE,2,28,2,transport
+2024-02-28 03:36:25.923,15.0,not defined,Cash,adjust balance,EXPENSE,2,28,2,not defined
+2024-02-27 14:14:39.153,10.0,transport,Cash,bus,EXPENSE,2,27,1,transport
+2024-02-27 14:14:24.421,35.0,transport,Metro Card,rta,EXPENSE,2,27,1,transport
+2024-02-27 14:01:20.741,140.0,food & drinks,Savings Bank,shawarma,EXPENSE,2,27,1,food & drinks
+2024-02-27 09:11:35.079,10.0,transport,Cash,bus,EXPENSE,2,27,1,transport
+2024-02-27 09:11:24.889,35.0,food & drinks,Savings Bank,snacks,EXPENSE,2,27,1,food & drinks
+2024-02-27 04:23:28.568,35.0,transport,Metro Card,atr,EXPENSE,2,27,1,transport
+2024-02-26 14:25:00.924,10.0,transport,Cash,bus,EXPENSE,2,26,0,transport
+2024-02-26 14:24:51.605,60.0,food & drinks,Savings Bank,snacks,EXPENSE,2,26,0,food & drinks
+2024-02-26 06:15:19.217,10.0,not defined,Cash,adjust balance,EXPENSE,2,26,0,not defined
+2024-02-26 04:29:25.514,10.0,transport,Cash,bus,EXPENSE,2,26,0,transport
+2024-02-26 03:36:00.000,35.0,transport,Metro Card,atr,EXPENSE,2,26,0,transport
+2024-02-26 03:35:00.000,35.0,transport,Metro Card,rta,EXPENSE,2,26,0,transport
+2024-02-26 03:29:28.213,200.0,bills & fees,Cash,baba,EXPENSE,2,26,0,bills & fees
+2024-02-26 03:29:21.480,50.0,bills & fees,Cash,maa,EXPENSE,2,26,0,bills & fees
+2024-02-24 07:53:19.532,50.0,food & drinks,Cash,snacks,EXPENSE,2,24,5,food & drinks
+2024-02-24 07:20:41.051,35.0,food & drinks,Cash,snacks,EXPENSE,2,24,5,food & drinks
+2024-02-23 14:45:15.570,25.0,food & drinks,Cash,snacks,EXPENSE,2,23,4,food & drinks
+2024-02-23 14:45:08.008,10.0,transport,Cash,bus,EXPENSE,2,23,4,transport
+2024-02-23 14:44:59.772,35.0,transport,Metro Card,rta,EXPENSE,2,23,4,transport
+2024-02-23 05:30:44.474,10.0,transport,Cash,bus,EXPENSE,2,23,4,transport
+2024-02-23 05:30:37.686,35.0,transport,Metro Card,atr,EXPENSE,2,23,4,transport
+2024-02-22 16:58:54.432,50.0,bills & fees,Savings Bank,bb,EXPENSE,2,22,3,bills & fees
+2024-02-22 15:12:47.507,10.0,transport,Cash,bus,EXPENSE,2,22,3,transport
+2024-02-22 15:12:41.854,35.0,transport,Metro Card,rta,EXPENSE,2,22,3,transport
+2024-02-22 05:29:24.587,180.0,bills & fees,Savings Bank,stonks,EXPENSE,2,22,3,bills & fees
+2024-02-22 05:28:30.990,10.0,transport,Cash,bus,EXPENSE,2,22,3,transport
+2024-02-22 05:28:21.373,35.0,transport,Metro Card,atr,EXPENSE,2,22,3,transport
+2024-02-21 15:43:20.895,30.0,food & drinks,Savings Bank,snacks,EXPENSE,2,21,2,food & drinks
+2024-02-21 13:43:04.893,10.0,transport,Cash,bus,EXPENSE,2,21,2,transport
+2024-02-21 12:29:38.628,35.0,transport,Metro Card,rta,EXPENSE,2,21,2,transport
+2024-02-21 12:29:28.216,259.0,bills & fees,Savings Bank,recharge,EXPENSE,2,21,2,bills & fees
+2024-02-20 17:01:00.000,9.0,bills & fees,Savings Bank,play store,EXPENSE,2,20,1,bills & fees
+2024-02-20 14:05:45.725,10.0,transport,Cash,bus,EXPENSE,2,20,1,transport
+2024-02-20 14:05:34.287,35.0,transport,Metro Card,rta,EXPENSE,2,20,1,transport
+2024-02-20 04:48:04.567,35.0,transport,Metro Card,atr,EXPENSE,2,20,1,transport
+2024-02-19 14:43:33.478,10.0,transport,Cash,bus,EXPENSE,2,19,0,transport
+2024-02-19 14:43:19.809,35.0,transport,Metro Card,rta,EXPENSE,2,19,0,transport
+2024-02-19 04:28:13.342,35.0,transport,Savings Bank,atr,EXPENSE,2,19,0,transport
+2024-02-18 15:08:52.317,250.0,food & drinks,Savings Bank,biryani,EXPENSE,2,18,6,food & drinks
+2024-02-18 13:05:06.921,40.0,food & drinks,Savings Bank,juice,EXPENSE,2,18,6,food & drinks
+2024-02-18 13:05:00.369,40.0,food & drinks,Cash,snacks,EXPENSE,2,18,6,food & drinks
+2024-02-18 13:04:50.844,150.0,bills & fees,Savings Bank,book,EXPENSE,2,18,6,bills & fees
+2024-02-18 13:04:34.238,50.0,bills & fees,Cash,entry fee,EXPENSE,2,18,6,bills & fees
+2024-02-17 14:58:49.354,430.0,bills & fees,Savings Bank,bus pass,EXPENSE,2,17,5,transport
+2024-02-17 14:58:38.786,20.0,food & drinks,Savings Bank,juice,EXPENSE,2,17,5,food & drinks
+2024-02-17 04:31:58.952,16.0,not defined,Cash,adjust balance,EXPENSE,2,17,5,not defined
+2024-02-16 14:56:36.514,35.0,transport,Metro Card,rta,EXPENSE,2,16,4,transport
+2024-02-16 14:56:26.406,35.0,transport,Metro Card,atr,EXPENSE,2,16,4,transport
+2024-02-15 14:56:00.000,35.0,transport,Metro Card,rta,EXPENSE,2,15,3,transport
+2024-02-14 17:33:35.053,100.0,food & drinks,Savings Bank,snack,EXPENSE,2,14,2,transport
+2024-02-14 17:33:27.249,100.0,transport,Savings Bank,petrol,EXPENSE,2,14,2,transport
+2024-02-14 06:32:47.056,100.0,transport,Savings Bank,petrol,EXPENSE,2,14,2,transport
+2024-02-13 12:11:37.767,35.0,transport,Metro Card,rta,EXPENSE,2,13,1,transport
+2024-02-13 12:11:11.514,35.0,transport,Metro Card,atr,EXPENSE,2,13,1,transport
+2024-02-13 06:32:00.000,10.0,transport,Cash,bus,EXPENSE,2,13,1,transport
+2024-02-12 12:10:00.000,35.0,transport,Metro Card,rta,EXPENSE,2,12,0,transport
+2024-02-12 12:10:00.000,10.0,transport,Cash,bus,EXPENSE,2,12,0,transport
+2024-02-11 14:46:45.004,130.0,food & drinks,Savings Bank,snacks,EXPENSE,2,11,6,food & drinks
+2024-02-10 13:18:00.000,45.0,food & drinks,Savings Bank,snacks,EXPENSE,2,10,5,food & drinks
+2024-02-10 13:18:00.000,20.0,transport,Cash,auto,EXPENSE,2,10,5,transport
+2024-02-09 13:17:00.000,145.0,food & drinks,Savings Bank,snacks,EXPENSE,2,9,4,food & drinks
+2024-02-09 13:17:00.000,998.0,bills & fees,Savings Bank,pants,EXPENSE,2,9,4,bills & fees
+2024-02-08 14:44:22.286,102.0,bills & fees,Savings Bank,ice cream,EXPENSE,2,8,3,food & drinks
+2024-02-08 12:48:01.542,247.0,food & drinks,Savings Bank,pizza,EXPENSE,2,8,3,food & drinks
+2024-02-08 12:47:51.684,2.0,not defined,Savings Bank,savings bank,EXPENSE,2,8,3,not defined
+2024-02-08 05:00:00.000,999.0,bills & fees,Savings Bank,shirt,EXPENSE,2,8,3,bills & fees
+2024-02-08 05:00:00.000,799.0,bills & fees,Savings Bank,pant,EXPENSE,2,8,3,bills & fees
+2024-02-07 12:13:11.151,35.0,transport,Savings Bank,rta,EXPENSE,2,7,2,transport
+2024-02-07 03:34:00.000,1.0,bills & fees,Savings Bank,upi lite,EXPENSE,2,7,2,bills & fees
+2024-02-06 08:47:07.084,440.0,transport,Savings Bank,bus pass,EXPENSE,2,6,1,transport
+2024-02-06 05:43:00.000,1000.0,bills & fees,Savings Bank,baba,EXPENSE,2,6,1,bills & fees
+2024-02-05 14:21:25.901,90.0,food & drinks,Savings Bank,snacks,EXPENSE,2,5,0,food & drinks
+2024-02-05 14:21:18.327,400.0,bills & fees,Savings Bank,exam,EXPENSE,2,5,0,bills & fees
+2024-02-05 14:20:10.098,40.0,not defined,Cash,adjust balance,EXPENSE,2,5,0,not defined
+2024-02-03 15:15:18.470,839.0,bills & fees,Savings Bank,baba birthday,EXPENSE,2,3,5,bills & fees
+2024-02-03 03:49:08.591,20.0,transport,Savings Bank,auto,EXPENSE,2,3,5,transport
+2024-02-03 02:57:54.135,2000.0,bills & fees,Savings Bank,baba,EXPENSE,2,3,5,bills & fees
+2024-02-02 02:58:00.000,200.0,transport,Savings Bank,petrol,EXPENSE,2,2,4,transport
+2024-02-02 02:58:00.000,299.0,bills & fees,Savings Bank,book,EXPENSE,2,2,4,bills & fees
+2024-02-01 15:40:10.023,99.0,bills & fees,Savings Bank,netflix,EXPENSE,2,1,3,bills & fees
+2024-02-01 15:40:02.903,40.0,food & drinks,Savings Bank,snacks,EXPENSE,2,1,3,food & drinks
+2024-02-01 02:56:00.000,100.0,bills & fees,Savings Bank,petrol,EXPENSE,2,1,3,transport
+2024-02-01 02:49:46.271,100.0,bills & fees,Savings Bank,chotu,EXPENSE,2,1,3,bills & fees
+2024-02-01 02:49:36.606,1000.0,bills & fees,Savings Bank,gym,EXPENSE,2,1,3,bills & fees
+2024-01-31 13:33:53.151,88.0,bills & fees,Savings Bank,milk,EXPENSE,1,31,2,bills & fees
+2024-01-31 13:33:38.053,100.0,transport,Savings Bank,petrol,EXPENSE,1,31,2,transport
+2024-01-31 09:29:10.277,200.0,bills & fees,Savings Bank,sid,EXPENSE,1,31,2,bills & fees
+2024-01-31 09:29:03.375,5000.0,bills & fees,Savings Bank,baba,EXPENSE,1,31,2,bills & fees
+2024-01-31 08:04:16.692,60.0,food & drinks,Savings Bank,snacks,EXPENSE,1,31,2,food & drinks
+2024-01-31 08:03:56.481,100.0,bills & fees,Savings Bank,petrol,EXPENSE,1,31,2,transport
+2024-01-30 15:24:24.004,100.0,bills & fees,Savings Bank,baba,EXPENSE,1,30,1,bills & fees
+2024-01-30 15:24:07.281,100.0,bills & fees,Savings Bank,oil,EXPENSE,1,30,1,bills & fees
+2024-01-29 15:23:00.000,35.0,transport,Savings Bank,rta,EXPENSE,1,29,0,transport
+2024-01-29 10:38:05.916,700.0,bills & fees,Savings Bank,tire,EXPENSE,1,29,0,transport
+2024-01-27 04:37:00.000,250.0,bills & fees,Savings Bank,petrol,EXPENSE,1,27,5,transport
+2024-01-27 04:37:00.000,60.0,food & drinks,Savings Bank,noodles,EXPENSE,1,27,5,food & drinks
+2024-01-27 04:36:00.000,5.0,bills & fees,Savings Bank,xerox,EXPENSE,1,27,5,bills & fees
+2024-01-27 04:35:00.000,27.0,bills & fees,Savings Bank,xerox,EXPENSE,1,27,5,bills & fees
+2024-01-26 04:33:00.000,50.0,food & drinks,Savings Bank,snacks,EXPENSE,1,26,4,food & drinks
+2024-01-25 14:33:31.826,120.0,food & drinks,Savings Bank,snacks,EXPENSE,1,25,3,food & drinks
+2024-01-24 04:32:00.000,35.0,transport,Savings Bank,atr,EXPENSE,1,24,2,transport
+2024-01-24 03:47:05.711,1.0,not defined,Savings Bank,adjust balance,EXPENSE,1,24,2,not defined
+2024-01-24 03:46:24.198,300.0,bills & fees,Savings Bank,license,EXPENSE,1,24,2,bills & fees
+2024-01-23 03:46:00.000,115.0,food & drinks,Savings Bank,snacks,EXPENSE,1,23,1,food & drinks
+2024-01-22 03:45:00.000,30.0,bills & fees,Savings Bank,grand original,EXPENSE,1,22,0,bills & fees
+2024-01-21 05:25:27.557,4.0,bills & fees,Savings Bank,shampoo,EXPENSE,1,21,6,bills & fees
+2024-01-21 05:25:14.108,150.0,bills & fees,Savings Bank,haircut,EXPENSE,1,21,6,bills & fees
+2024-01-20 04:26:59.396,259.0,bills & fees,Savings Bank,recharge,EXPENSE,1,20,5,bills & fees
+2024-01-20 03:48:40.411,20.0,transport,Cash,auto,EXPENSE,1,20,5,transport
+2024-01-18 12:10:38.789,20.0,transport,Cash,auto,EXPENSE,1,18,3,transport
+2024-01-18 02:07:00.000,111.0,food & drinks,Savings Bank,snacks,EXPENSE,1,18,3,food & drinks
+2024-01-16 07:46:00.000,20.0,food & drinks,Savings Bank,juice,EXPENSE,1,16,1,food & drinks
+2024-01-16 07:46:00.000,130.0,food & drinks,Savings Bank,shawarma,EXPENSE,1,16,1,food & drinks
+2024-01-16 04:36:47.099,30.0,transport,Savings Bank,bike,EXPENSE,1,16,1,transport
+2024-01-16 03:41:55.665,20.0,transport,Cash,auto,EXPENSE,1,16,1,transport
+2024-01-16 02:22:09.074,3500.0,bills & fees,Savings Bank,rent,EXPENSE,1,16,1,bills & fees
+2024-01-15 12:32:43.650,75.0,food & drinks,Savings Bank,juice,EXPENSE,1,15,0,food & drinks
+2024-01-14 12:33:00.000,0.9,bills & fees,Savings Bank,recharge,EXPENSE,1,14,6,bills & fees
+2024-01-13 15:08:57.801,30.0,transport,Savings Bank,snack,EXPENSE,1,13,5,transport
+2024-01-13 12:32:00.000,60.0,bills & fees,Savings Bank,snacks,EXPENSE,1,13,5,food & drinks
+2024-01-13 09:35:12.683,20.0,transport,Cash,auto,EXPENSE,1,13,5,transport
+2024-01-12 09:34:00.000,35.0,transport,Savings Bank,rta,EXPENSE,1,12,4,transport
+2024-01-12 09:34:00.000,99.0,food & drinks,Savings Bank,burger am,EXPENSE,1,12,4,food & drinks
+2024-01-12 09:33:00.000,30.0,food & drinks,Savings Bank,breakfast,EXPENSE,1,12,4,food & drinks
+2024-01-11 09:32:00.000,10.0,food & drinks,Savings Bank,aloo bhujia,EXPENSE,1,11,3,food & drinks
+2024-01-11 04:36:59.560,5.0,not defined,Cash,something,EXPENSE,1,11,3,bills & fees
+2024-01-11 04:36:32.558,400.0,bills & fees,Savings Bank,stonks,EXPENSE,1,11,3,bills & fees
+2024-01-11 03:53:59.551,10.0,transport,Cash,bus,EXPENSE,1,11,3,transport
+2024-01-11 03:53:57.667,35.0,transport,Metro Card,atr,EXPENSE,1,11,3,transport
+2024-01-10 10:00:50.505,35.0,transport,Metro Card,atr,EXPENSE,1,10,2,transport
+2024-01-10 03:53:00.000,20.0,transport,Savings Bank,auto,EXPENSE,1,10,2,transport
+2024-01-09 14:55:44.452,200.0,bills & fees,Savings Bank,sid payup,EXPENSE,1,9,1,bills & fees
+2024-01-09 12:14:56.340,50.22,not defined,Savings Bank,adjust balance,EXPENSE,1,9,1,not defined
+2024-01-09 12:14:18.266,20.0,not defined,Cash,adjust balance,EXPENSE,1,9,1,not defined
+2024-01-09 12:11:43.743,35.0,transport,Savings Bank,rta,EXPENSE,1,9,1,transport
+2024-01-09 03:50:35.826,20.0,transport,Cash,bus,EXPENSE,1,9,1,transport
+2024-01-08 09:14:26.713,280.0,food & drinks,Savings Bank,payup,EXPENSE,1,8,0,food & drinks
+2024-01-08 09:13:22.434,40.0,bills & fees,Savings Bank,scholarship,EXPENSE,1,8,0,bills & fees
+2024-01-07 10:06:54.505,25.0,food & drinks,Cash,juice,EXPENSE,1,7,6,food & drinks
+2024-01-07 09:14:00.000,600.0,bills & fees,Savings Bank,gala nyt,EXPENSE,1,7,6,bills & fees
+2024-01-07 09:13:00.000,15.0,bills & fees,Savings Bank,parking,EXPENSE,1,7,6,bills & fees
+2024-01-07 09:12:00.000,72.0,bills & fees,Savings Bank,stationary,EXPENSE,1,7,6,bills & fees
+2024-01-06 12:41:20.459,20.0,transport,Cash,auto,EXPENSE,1,6,5,transport
+2024-01-06 07:44:42.274,10.0,transport,Cash,bus,EXPENSE,1,6,5,transport
+2024-01-06 07:44:31.074,20.0,transport,Cash,auto,EXPENSE,1,6,5,transport
+2024-01-04 12:45:08.344,60.0,food & drinks,Savings Bank,snacks,EXPENSE,1,4,3,food & drinks
+2024-01-04 03:49:57.713,20.0,transport,Cash,auto,EXPENSE,1,4,3,transport
+2024-01-02 12:57:39.490,20.0,transport,Cash,auto,EXPENSE,1,2,1,transport
+2024-01-02 12:57:29.414,50.0,food & drinks,Savings Bank,snacks,EXPENSE,1,2,1,food & drinks
+2024-01-02 03:58:55.807,20.0,transport,Savings Bank,auto,EXPENSE,1,2,1,transport
+2024-01-02 03:58:47.813,10.0,transport,Cash,bus,EXPENSE,1,2,1,transport
+2024-01-01 05:09:11.934,300.0,food & drinks,Savings Bank,cake,EXPENSE,1,1,0,transport
+2024-01-01 05:09:01.107,350.0,bills & fees,Savings Bank,party,EXPENSE,1,1,0,transport
+2023-12-30 09:34:17.414,30.0,food & drinks,Savings Bank,breakfast,EXPENSE,12,30,5,food & drinks
+2023-12-29 14:52:52.822,100.0,food & drinks,Savings Bank,snacks,EXPENSE,12,29,4,food & drinks
+2023-12-29 07:07:45.817,10.0,transport,Cash,bus,EXPENSE,12,29,4,transport
+2023-12-29 07:07:44.907,20.0,transport,Cash,auto,EXPENSE,12,29,4,transport
+2023-12-28 04:47:55.708,30.0,food & drinks,Savings Bank,breakfast,EXPENSE,12,28,3,food & drinks
+2023-12-27 12:44:25.147,20.0,transport,Savings Bank,auto,EXPENSE,12,27,2,transport
+2023-12-27 12:44:18.344,20.0,transport,Cash,auto,EXPENSE,12,27,2,transport
+2023-12-27 03:22:15.547,35.0,bills & fees,Savings Bank,stationary,EXPENSE,12,27,2,bills & fees
+2023-12-27 03:22:05.053,10.0,transport,Cash,bus,EXPENSE,12,27,2,transport
+2023-12-26 13:24:32.510,30.0,food & drinks,Savings Bank,snacks,EXPENSE,12,26,1,food & drinks
+2023-12-26 08:47:33.752,70.0,food & drinks,Savings Bank,lunch,EXPENSE,12,26,1,food & drinks
+2023-12-26 04:53:01.660,45.0,not defined,Cash,adjust balance,EXPENSE,12,26,1,not defined
+2023-12-26 03:34:28.984,35.0,food & drinks,Savings Bank,breakfast,EXPENSE,12,26,1,food & drinks
+2023-12-25 14:00:56.062,70.0,food & drinks,Savings Bank,bread,EXPENSE,12,25,0,food & drinks
+2023-12-25 09:03:22.892,220.0,food & drinks,Savings Bank,lunch,EXPENSE,12,25,0,food & drinks
+2023-12-25 06:48:47.727,20.0,food & drinks,Savings Bank,tea,EXPENSE,12,25,0,food & drinks
+2023-12-25 06:48:41.761,20.0,food & drinks,Savings Bank,water,EXPENSE,12,25,0,food & drinks
+2023-12-25 06:48:34.150,60.0,food & drinks,Savings Bank,breakfast,EXPENSE,12,25,0,food & drinks
+2023-12-25 06:48:28.156,40.0,food & drinks,Savings Bank,breakfast,EXPENSE,12,25,0,food & drinks
+2023-12-25 02:59:00.000,187.2,food & drinks,Savings Bank,chicken keema,EXPENSE,12,25,0,transport
+2023-12-24 06:49:00.000,30.0,food & drinks,Savings Bank,breakfast,EXPENSE,12,24,6,food & drinks
+2023-12-24 06:46:00.000,4.0,food & drinks,Savings Bank,coffee,EXPENSE,12,24,6,food & drinks
+2023-12-24 06:46:00.000,10.0,food & drinks,Cash,coffee,EXPENSE,12,24,6,food & drinks
+2023-12-23 14:02:51.092,259.0,bills & fees,Savings Bank,recharge,EXPENSE,12,23,5,bills & fees
+2023-12-22 09:34:46.558,60.0,food & drinks,Savings Bank,snacks,EXPENSE,12,22,4,food & drinks
+2023-12-22 06:59:55.062,20.0,transport,Savings Bank,auto,EXPENSE,12,22,4,transport
+2023-12-22 03:28:00.000,130.0,food & drinks,Savings Bank,juice,EXPENSE,12,22,4,food & drinks
+2023-12-22 03:27:00.000,170.0,food & drinks,Savings Bank,pizza,EXPENSE,12,22,4,food & drinks
+2023-12-21 08:51:40.915,376.0,bills & fees,Savings Bank,tickets,EXPENSE,12,21,3,bills & fees
+2023-12-21 07:46:46.462,1550.0,bills & fees,Savings Bank,gift,EXPENSE,12,21,3,bills & fees
+2023-12-20 15:19:36.021,330.0,food & drinks,Savings Bank,shawarma,EXPENSE,12,20,2,food & drinks
+2023-12-20 13:21:25.697,55.0,food & drinks,Savings Bank,snacks,EXPENSE,12,20,2,food & drinks
+2023-12-20 12:55:23.182,257.9,bills & fees,Savings Bank,recharge,EXPENSE,12,20,2,bills & fees
+2023-12-20 12:52:20.771,10.0,transport,Cash,bus,EXPENSE,12,20,2,transport
+2023-12-20 07:12:40.662,20.0,transport,Cash,auto,EXPENSE,12,20,2,transport
+2023-12-20 07:12:37.700,35.0,food & drinks,Savings Bank,snacks,EXPENSE,12,20,2,food & drinks
+2023-12-18 13:53:46.737,290.0,food & drinks,Savings Bank,weekend,EXPENSE,12,18,0,food & drinks
+2023-12-16 13:51:00.000,295.0,bills & fees,Savings Bank,card maintenance,EXPENSE,12,16,5,transport
+2023-12-16 13:50:00.000,430.0,transport,Savings Bank,bus pass,EXPENSE,12,16,5,transport
+2023-12-16 06:15:44.787,20.0,transport,Savings Bank,auto,EXPENSE,12,16,5,transport
+2023-12-15 17:37:53.345,40.0,food & drinks,Savings Bank,juice,EXPENSE,12,15,4,food & drinks
+2023-12-15 17:37:39.927,105.0,food & drinks,Savings Bank,snacks,EXPENSE,12,15,4,food & drinks
+2023-12-15 05:26:55.111,20.0,transport,Cash,auto,EXPENSE,12,15,4,transport
+2023-12-15 05:26:48.237,70.0,food & drinks,Cash,snacks,EXPENSE,12,15,4,food & drinks
+2023-12-14 04:56:43.264,30.0,food & drinks,Savings Bank,snacks,EXPENSE,12,14,3,food & drinks
+2023-12-13 17:49:54.294,520.0,bills & fees,Savings Bank,biryani,EXPENSE,12,13,2,food & drinks
+2023-12-13 14:46:42.668,10.0,transport,Cash,bus,EXPENSE,12,13,2,transport
+2023-12-13 14:46:33.503,10.0,transport,Cash,bus,EXPENSE,12,13,2,transport
+2023-12-13 14:46:31.913,20.0,transport,Cash,auto,EXPENSE,12,13,2,transport
+2023-12-12 17:10:27.370,20.0,transport,Cash,auto,EXPENSE,12,12,1,transport
+2023-12-12 02:48:36.894,10.0,transport,Cash,bus,EXPENSE,12,12,1,transport
+2023-12-11 13:49:22.709,2.0,not defined,Savings Bank,adjust balance,EXPENSE,12,11,0,not defined
+2023-12-11 13:45:25.240,30.0,food & drinks,Savings Bank,snacks,EXPENSE,12,11,0,food & drinks
+2023-12-11 03:22:38.688,20.0,transport,Savings Bank,auto,EXPENSE,12,11,0,transport
+2023-12-10 03:22:00.000,30.0,food & drinks,Savings Bank,bonda,EXPENSE,12,10,6,food & drinks
+2023-12-09 16:11:36.601,130.0,food & drinks,Savings Bank,snacks,EXPENSE,12,9,5,food & drinks
+2023-12-09 16:10:06.821,2.0,not defined,Metro Card,metro card,EXPENSE,12,9,5,transport
+2023-12-09 03:23:28.486,20.0,transport,Cash,auto,EXPENSE,12,9,5,transport
+2023-12-08 13:33:46.243,70.0,food & drinks,Savings Bank,snacks,EXPENSE,12,8,4,food & drinks
+2023-12-08 13:00:35.749,5.0,not defined,Savings Bank,adjust balance,EXPENSE,12,8,4,not defined
+2023-12-08 12:59:59.163,10.0,bills & fees,Savings Bank,printouts,EXPENSE,12,8,4,bills & fees
+2023-12-08 12:59:45.192,15.0,food & drinks,Savings Bank,coke,EXPENSE,12,8,4,food & drinks
+2023-12-07 12:59:00.000,20.0,transport,Savings Bank,auto,EXPENSE,12,7,3,transport
+2023-12-07 12:55:00.000,500.0,not defined,Savings Bank,withdraw,EXPENSE,12,7,3,transport
+2023-12-07 11:20:00.000,20.0,transport,Cash,auto,EXPENSE,12,7,3,transport
+2023-12-07 02:58:24.512,20.0,not defined,Cash,adjust balance,EXPENSE,12,7,3,not defined
+2023-12-07 02:57:58.498,10.0,transport,Cash,bus,EXPENSE,12,7,3,transport
+2023-12-06 18:08:07.880,10.0,transport,Cash,bus,EXPENSE,12,6,2,transport
+2023-12-06 12:57:00.000,20.0,transport,Savings Bank,auto,EXPENSE,12,6,2,transport
+2023-12-06 03:53:13.035,20.0,transport,Cash,auto,EXPENSE,12,6,2,transport
+2023-12-06 03:53:07.487,10.0,transport,Cash,bus,EXPENSE,12,6,2,transport
+2023-12-05 01:49:00.000,10.0,transport,Cash,bus,EXPENSE,12,5,1,transport
+2023-12-05 01:49:00.000,20.0,transport,Cash,auto,EXPENSE,12,5,1,transport
+2023-12-04 16:39:13.662,75.0,food & drinks,Savings Bank,snacks,EXPENSE,12,4,0,food & drinks
+2023-12-04 16:36:59.062,50.0,food & drinks,Savings Bank,jalebi,EXPENSE,12,4,0,food & drinks
+2023-12-04 16:36:41.801,10.0,transport,Cash,bus,EXPENSE,12,4,0,transport
+2023-12-04 16:36:34.724,20.0,transport,Savings Bank,auto,EXPENSE,12,4,0,transport
+2023-12-02 14:46:32.344,10.0,transport,Cash,bus,EXPENSE,12,2,5,transport
+2023-12-02 14:46:23.183,35.0,transport,Metro Card,rta,EXPENSE,12,2,5,transport
+2023-12-01 14:07:24.158,20.0,transport,Cash,bus,EXPENSE,12,1,4,transport
+2023-12-01 12:47:08.500,10.0,not defined,Cash,adjust balance,EXPENSE,12,1,4,not defined
+2023-12-01 06:52:48.720,35.0,transport,Metro Card,atrr,EXPENSE,12,1,4,transport
+2023-11-29 15:34:00.000,35.0,transport,Metro Card,rta,EXPENSE,11,29,2,transport
+2023-11-29 15:33:00.000,35.0,transport,Metro Card,atrr,EXPENSE,11,29,2,transport
+2023-11-29 15:33:00.000,20.0,transport,Cash,bus,EXPENSE,11,29,2,transport
+2023-11-29 14:45:01.328,520.0,food & drinks,Savings Bank,biryani,EXPENSE,11,29,2,food & drinks
+2023-11-29 14:44:19.650,140.0,food & drinks,Savings Bank,shawarma,EXPENSE,11,29,2,food & drinks
+2023-11-29 10:53:26.997,552.0,food & drinks,Savings Bank,lunch payup,EXPENSE,11,29,2,food & drinks
+2023-11-29 08:14:04.299,10000.0,bills & fees,Savings Bank,baba,EXPENSE,11,29,2,bills & fees
+2023-11-29 02:30:53.478,20.0,bills & fees,Savings Bank,chotu,EXPENSE,11,29,2,bills & fees
+2023-11-28 11:29:44.156,20.0,transport,Cash,auto,EXPENSE,11,28,1,transport
+2023-11-28 02:32:00.000,20.0,food & drinks,Savings Bank,juice,EXPENSE,11,28,1,food & drinks
+2023-11-27 00:34:00.000,35.0,transport,Metro Card,atrr,EXPENSE,11,27,0,transport
+2023-11-26 23:34:00.000,10.0,transport,Cash,bus,EXPENSE,11,26,6,transport
+2023-11-26 13:25:51.138,30.0,food & drinks,Savings Bank,snacks,EXPENSE,11,26,6,food & drinks
+2023-11-26 12:30:43.567,4.0,bills & fees,Savings Bank,shampoo,EXPENSE,11,26,6,bills & fees
+2023-11-25 17:27:08.559,20.0,transport,Cash,auto,EXPENSE,11,25,5,transport
+2023-11-25 14:28:37.182,19.2,not defined,Savings Bank,adjust balance,EXPENSE,11,25,5,not defined
+2023-11-25 14:23:29.453,800.0,bills & fees,Savings Bank,exam fees,EXPENSE,11,25,5,bills & fees
+2023-11-24 17:55:52.227,35.0,food & drinks,Savings Bank,snacks,EXPENSE,11,24,4,food & drinks
+2023-11-23 17:55:00.000,10.0,transport,Cash,bus,EXPENSE,11,23,3,transport
+2023-11-23 17:54:00.000,35.0,transport,Metro Card,atrr,EXPENSE,11,23,3,transport
+2023-11-23 14:27:00.000,50.0,bills & fees,Savings Bank,something,EXPENSE,11,23,3,bills & fees
+2023-11-22 01:48:00.000,35.0,transport,Metro Card,atrr,EXPENSE,11,22,2,transport
+2023-11-22 01:48:00.000,10.0,transport,Cash,bus,EXPENSE,11,22,2,transport
+2023-11-21 14:27:00.000,46.0,bills & fees,Savings Bank,curd,EXPENSE,11,21,1,food & drinks
+2023-11-21 14:26:00.000,30.0,food & drinks,Savings Bank,snacks,EXPENSE,11,21,1,food & drinks
+2023-11-21 12:38:04.697,10.0,transport,Cash,bus,EXPENSE,11,21,1,transport
+2023-11-21 06:57:29.028,200.0,bills & fees,Savings Bank,chotu pass,EXPENSE,11,21,1,bills & fees
+2023-11-21 05:04:04.458,35.0,transport,Metro Card,atrr,EXPENSE,11,21,1,transport
+2023-11-21 03:14:37.522,259.0,bills & fees,Savings Bank,recharge,EXPENSE,11,21,1,bills & fees
+2023-11-20 13:09:53.839,10.0,transport,Cash,bus,EXPENSE,11,20,0,transport
+2023-11-20 08:38:31.969,50.0,bills & fees,Cash,maa,EXPENSE,11,20,0,bills & fees
+2023-11-20 04:16:05.047,35.0,transport,Metro Card,atr,EXPENSE,11,20,0,transport
+2023-11-18 14:33:00.000,430.0,transport,Savings Bank,bus pass,EXPENSE,11,18,5,transport
+2023-11-18 03:45:47.429,20.0,transport,Cash,auto,EXPENSE,11,18,5,transport
+2023-11-18 02:56:01.771,10.0,transport,Cash,bus,EXPENSE,11,18,5,transport
+2023-11-17 15:45:38.543,153.0,bills & fees,Savings Bank,saman,EXPENSE,11,17,4,bills & fees
+2023-11-17 13:24:05.567,10.0,transport,Cash,bus,EXPENSE,11,17,4,transport
+2023-11-17 07:24:46.817,35.0,transport,Metro Card,atr,EXPENSE,11,17,4,transport
+2023-11-16 13:15:37.979,35.0,transport,Metro Card,rta,EXPENSE,11,16,3,transport
+2023-11-16 13:13:59.113,10.0,transport,Cash,bus,EXPENSE,11,16,3,transport
+2023-11-16 13:13:48.761,20.0,not defined,Cash,adjust balance,EXPENSE,11,16,3,not defined
+2023-11-16 12:26:08.443,35.0,transport,Metro Card,atr,EXPENSE,11,16,3,transport
+2023-11-15 04:43:29.264,35.0,transport,Savings Bank,atr,EXPENSE,11,15,2,transport
+2023-11-14 04:40:40.406,20.0,transport,Cash,auto,EXPENSE,11,14,1,transport
+2023-11-14 02:49:41.199,20.0,not defined,Cash,maa,EXPENSE,11,14,1,bills & fees
+2023-11-13 02:50:00.000,100.0,bills & fees,Savings Bank,print,EXPENSE,11,13,0,bills & fees
+2023-11-13 02:50:00.000,35.0,transport,Savings Bank,atr,EXPENSE,11,13,0,transport
+2023-11-12 14:21:28.134,70.0,food & drinks,Savings Bank,snacks,EXPENSE,11,12,6,food & drinks
+2023-11-12 13:43:47.628,1050.0,bills & fees,Savings Bank,clothes,EXPENSE,11,12,6,bills & fees
+2023-11-12 13:43:30.296,1607.0,bills & fees,Savings Bank,clothes,EXPENSE,11,12,6,bills & fees
+2023-11-11 09:44:13.882,105.0,food & drinks,Savings Bank,snacks,EXPENSE,11,11,5,food & drinks
+2023-11-11 04:41:00.000,140.0,food & drinks,Savings Bank,snacks,EXPENSE,11,11,5,food & drinks
+2023-11-11 03:45:36.925,10.0,transport,Cash,bus,EXPENSE,11,11,5,transport
+2023-11-11 03:45:29.506,20.0,transport,Cash,auto,EXPENSE,11,11,5,transport
+2023-11-10 14:37:48.383,150.0,bills & fees,Savings Bank,haircut,EXPENSE,11,10,4,bills & fees
+2023-11-10 12:39:38.851,10.0,transport,Cash,bus,EXPENSE,11,10,4,transport
+2023-11-10 12:39:27.438,35.0,transport,Metro Card,rta,EXPENSE,11,10,4,transport
+2023-11-10 12:39:11.482,35.0,transport,Metro Card,atr,EXPENSE,11,10,4,transport
+2023-11-09 04:35:00.000,35.0,transport,Metro Card,atr,EXPENSE,11,9,3,transport
+2023-11-09 04:35:00.000,35.0,transport,Metro Card,rta,EXPENSE,11,9,3,transport
+2023-11-09 04:35:00.000,10.0,transport,Cash,bus,EXPENSE,11,9,3,transport
+2023-11-08 14:46:33.699,35.0,transport,Metro Card,rta,EXPENSE,11,8,2,transport
+2023-11-08 14:46:25.456,35.0,transport,Metro Card,atr,EXPENSE,11,8,2,transport
+2023-11-08 14:46:12.011,220.0,bills & fees,Savings Bank,dishtv,EXPENSE,11,8,2,bills & fees
+2023-11-08 04:43:00.000,10.0,food & drinks,Savings Bank,juice,EXPENSE,11,8,2,food & drinks
+2023-11-07 12:41:00.000,35.0,transport,Metro Card,rta,EXPENSE,11,7,1,transport
+2023-11-07 10:42:39.245,774.0,bills & fees,Savings Bank,electricity,EXPENSE,11,7,1,bills & fees
+2023-11-07 04:31:45.580,35.0,transport,Metro Card,atr,EXPENSE,11,7,1,transport
+2023-11-07 04:31:33.413,44.0,transport,Savings Bank,rapido,EXPENSE,11,7,1,transport
+2023-11-06 05:23:14.984,35.0,transport,Metro Card,atr,EXPENSE,11,6,0,transport
+2023-11-05 13:43:25.042,25.0,bills & fees,Savings Bank,maida,EXPENSE,11,5,6,bills & fees
+2023-11-05 04:44:00.000,30.0,not defined,Savings Bank,adjust,EXPENSE,11,5,6,not defined
+2023-11-04 13:39:41.767,140.0,food & drinks,Savings Bank,sid,EXPENSE,11,4,5,bills & fees
+2023-11-04 05:26:44.731,385.0,bills & fees,Savings Bank,printouts,EXPENSE,11,4,5,bills & fees
+2023-11-04 04:45:00.000,650.0,food & drinks,Savings Bank,treat,EXPENSE,11,4,5,food & drinks
+2023-11-03 05:08:00.000,104.0,bills & fees,Savings Bank,seminar print,EXPENSE,11,3,4,bills & fees
+2023-11-03 05:06:00.000,35.0,transport,Metro Card,atr,EXPENSE,11,3,4,transport
+2023-11-02 12:43:39.434,1899.0,bills & fees,Savings Bank,amazon,EXPENSE,11,2,3,transport
+2023-11-02 05:06:00.000,35.0,transport,Metro Card,atr,EXPENSE,11,2,3,transport
+2023-11-01 18:10:55.602,2320.78,bills & fees,Savings Bank,grocery,EXPENSE,11,1,2,bills & fees
+2023-11-01 16:20:37.828,520.0,food & drinks,Savings Bank,biryani,EXPENSE,11,1,2,food & drinks
+2023-11-01 12:21:35.753,35.0,transport,Metro Card,atr,EXPENSE,11,1,2,transport
+2023-11-01 12:21:26.593,10.0,transport,Cash,bus,EXPENSE,11,1,2,transport
+2023-11-01 12:21:20.752,10.0,transport,Cash,bus,EXPENSE,11,1,2,transport
+2023-11-01 02:30:08.193,4.0,bills & fees,Savings Bank,shampoo,EXPENSE,11,1,2,bills & fees
+2023-10-31 13:52:07.768,10.0,transport,Cash,bus,EXPENSE,10,31,1,transport
+2023-10-31 12:04:29.967,35.0,transport,Metro Card,atr,EXPENSE,10,31,1,transport
+2023-10-30 12:21:01.699,20.0,transport,Cash,bus,EXPENSE,10,30,0,transport
+2023-10-30 04:38:50.763,20.0,transport,Cash,bus,EXPENSE,10,30,0,transport
+2023-10-28 05:11:50.025,30.0,food & drinks,Savings Bank,snacks,EXPENSE,10,28,5,food & drinks
+2023-10-27 13:39:24.498,35.0,transport,Metro Card,atr,EXPENSE,10,27,4,transport
+2023-10-27 13:39:13.463,10.0,transport,Cash,bus,EXPENSE,10,27,4,transport
+2023-10-26 12:16:39.077,35.0,transport,Metro Card,atr,EXPENSE,10,26,3,transport
+2023-10-26 12:16:26.990,10.0,transport,Cash,bus,EXPENSE,10,26,3,transport
+2023-10-26 07:21:17.388,200.0,bills & fees,Savings Bank,chotu,EXPENSE,10,26,3,bills & fees
+2023-10-26 03:19:00.000,10.0,transport,Cash,bus,EXPENSE,10,26,3,transport
+2023-10-25 18:09:16.546,35.0,not defined,Metro Card,adjust balance,EXPENSE,10,25,2,not defined
+2023-10-25 18:08:06.992,44.0,not defined,Cash,adjust balance,EXPENSE,10,25,2,not defined
+2023-10-25 18:06:00.940,60.0,bills & fees,Savings Bank,nidhish payup,EXPENSE,10,25,2,food & drinks
+2023-10-25 18:05:16.186,470.82,bills & fees,Savings Bank,recharge,EXPENSE,10,25,2,bills & fees
+2023-10-24 18:04:00.000,356.0,food & drinks,Savings Bank,biryani,EXPENSE,10,24,1,food & drinks
+2023-10-24 18:02:00.000,140.0,food & drinks,Savings Bank,egg roll,EXPENSE,10,24,1,food & drinks
+2023-10-24 18:01:00.000,440.0,transport,Savings Bank,bus pass,EXPENSE,10,24,1,transport
+2023-10-24 18:00:00.000,40.0,bills & fees,Savings Bank,adjust,EXPENSE,10,24,1,not defined
+2023-10-23 17:57:00.000,74.0,transport,Savings Bank,rapido,EXPENSE,10,23,0,transport
+2023-10-23 17:47:00.000,10.0,bills & fees,Savings Bank,adjust,EXPENSE,10,23,0,not defined
+2023-10-22 17:45:00.000,160.0,food & drinks,Savings Bank,egg roll,EXPENSE,10,22,6,food & drinks
+2023-10-22 16:38:00.000,259.0,bills & fees,Savings Bank,recharge,EXPENSE,10,22,6,bills & fees
+2023-10-22 12:42:40.411,30.0,transport,Cash,bus,EXPENSE,10,22,6,transport
+2023-10-22 12:42:27.696,20.0,transport,Cash,bus,EXPENSE,10,22,6,transport
+2023-10-22 10:45:00.000,30.0,food & drinks,Savings Bank,snacks,EXPENSE,10,22,6,food & drinks
+2023-10-22 02:54:45.615,50.0,bills & fees,Cash,maa,EXPENSE,10,22,6,bills & fees
+2023-10-21 16:02:43.591,30.0,food & drinks,Cash,juice,EXPENSE,10,21,5,food & drinks
+2023-10-21 03:07:10.139,20.0,transport,Cash,auto,EXPENSE,10,21,5,transport
+2023-10-20 03:55:42.633,30.0,transport,Cash,bus,EXPENSE,10,20,4,transport
+2023-10-20 03:10:00.000,10.0,transport,Metro Card,pta,EXPENSE,10,20,4,transport
+2023-10-20 03:09:00.000,35.0,transport,Metro Card,htp,EXPENSE,10,20,4,transport
+2023-10-20 03:07:00.000,35.0,transport,Metro Card,atr,EXPENSE,10,20,4,transport
+2023-10-20 03:00:00.000,30.0,transport,Cash,bus,EXPENSE,10,20,4,transport
+2023-10-19 12:12:05.334,45.0,transport,Metro Card,rta,EXPENSE,10,19,3,transport
+2023-10-19 09:44:54.023,35.0,transport,Metro Card,atr,EXPENSE,10,19,3,transport
+2023-10-18 13:57:27.120,30.0,food & drinks,Cash,snacks,EXPENSE,10,18,2,food & drinks
+2023-10-18 13:56:15.773,10.0,transport,Cash,bus,EXPENSE,10,18,2,transport
+2023-10-18 11:47:13.193,35.0,transport,Metro Card,atr,EXPENSE,10,18,2,transport
+2023-10-17 14:06:51.024,111.0,bills & fees,Savings Bank,stonks,EXPENSE,10,17,1,bills & fees
+2023-10-17 14:05:51.717,10.0,transport,Cash,bus,EXPENSE,10,17,1,transport
+2023-10-17 14:05:45.338,10.0,transport,Cash,bus,EXPENSE,10,17,1,transport
+2023-10-17 14:05:28.329,35.0,transport,Savings Bank,metro,EXPENSE,10,17,1,transport
+2023-10-17 14:05:15.571,1000.0,bills & fees,Savings Bank,chotu,EXPENSE,10,17,1,bills & fees
+2023-10-17 14:05:09.168,2000.0,bills & fees,Savings Bank,baba,EXPENSE,10,17,1,bills & fees
+2023-10-15 03:06:47.570,35.0,not defined,Savings Bank,adjust balance,EXPENSE,10,15,6,not defined
+2023-10-06 07:54:37.276,20.0,transport,Cash,auto,EXPENSE,10,6,4,transport
+2023-10-06 02:28:00.000,20.0,transport,Cash,auto,EXPENSE,10,6,4,transport
+2023-10-05 11:18:59.944,20.0,transport,Cash,auto,EXPENSE,10,5,3,transport
+2023-10-03 12:59:56.996,20.0,transport,Cash,auto,EXPENSE,10,3,1,transport
+2023-10-03 02:48:42.707,10.0,transport,Cash,bus,EXPENSE,10,3,1,transport
+2023-09-30 09:59:33.963,500.0,bills & fees,Savings Bank,baba,EXPENSE,9,30,5,bills & fees
+2023-09-30 05:06:46.756,55.0,food & drinks,Savings Bank,snacks,EXPENSE,9,30,5,food & drinks
+2023-09-29 17:31:00.000,30.0,transport,Cash,autobus,EXPENSE,9,29,4,transport
+2023-09-28 17:35:00.000,500.0,bills & fees,Savings Bank,baba,EXPENSE,9,28,3,bills & fees
+2023-09-28 13:48:55.602,70.0,food & drinks,Savings Bank,snacks,EXPENSE,9,28,3,food & drinks
+2023-09-28 11:01:06.138,4.0,not defined,Cash,adjust balance,EXPENSE,9,28,3,not defined
+2023-09-28 10:30:25.262,1000.0,bills & fees,Savings Bank,baba,EXPENSE,9,28,3,bills & fees
+2023-09-28 06:34:26.839,20.0,bills & fees,Cash,chotu,EXPENSE,9,28,3,bills & fees
+2023-09-27 06:34:00.000,20.0,transport,Cash,auto,EXPENSE,9,27,2,transport
+2023-09-27 03:14:57.910,40.0,bills & fees,Savings Bank,sid,EXPENSE,9,27,2,bills & fees
+2023-09-25 14:21:44.027,25.0,food & drinks,Savings Bank,snacks,EXPENSE,9,25,0,food & drinks
+2023-09-25 14:21:22.409,20.0,food & drinks,Savings Bank,jalebi,EXPENSE,9,25,0,food & drinks
+2023-09-25 14:21:05.606,20.0,transport,Savings Bank,auto,EXPENSE,9,25,0,transport
+2023-09-25 14:20:59.632,10.0,transport,Cash,bus,EXPENSE,9,25,0,transport
+2023-09-23 17:41:00.000,259.0,bills & fees,Savings Bank,recharge,EXPENSE,9,23,5,bills & fees
+2023-09-23 07:47:07.440,20.0,not defined,Savings Bank,adjust balance,EXPENSE,9,23,5,not defined
+2023-09-23 07:46:26.771,40.0,not defined,Cash,adjust balance,EXPENSE,9,23,5,not defined
+2023-09-23 07:45:21.172,20.0,transport,Cash,auto,EXPENSE,9,23,5,transport
+2023-09-23 07:45:13.516,10.0,transport,Cash,bus,EXPENSE,9,23,5,transport
+2023-09-23 07:23:40.225,50.0,bills & fees,Savings Bank,chotu,EXPENSE,9,23,5,bills & fees
+2023-09-22 08:11:20.220,20.0,transport,Cash,auto,EXPENSE,9,22,4,transport
+2023-09-20 09:44:37.871,20.0,transport,Cash,auto,EXPENSE,9,20,2,transport
+2023-09-19 03:48:45.758,5.0,bills & fees,Savings Bank,prints,EXPENSE,9,19,1,bills & fees
+2023-09-19 03:48:37.082,20.0,transport,Cash,auto,EXPENSE,9,19,1,transport
+2023-09-19 03:48:30.961,10.0,transport,Cash,bus,EXPENSE,9,19,1,transport
+2023-09-18 13:48:03.901,25.0,bills & fees,Cash,parking,EXPENSE,9,18,0,bills & fees
+2023-09-16 07:43:22.684,30.0,food & drinks,Savings Bank,snacks,EXPENSE,9,16,5,food & drinks
+2023-09-15 07:42:00.000,100.0,food & drinks,Cash,pastry,EXPENSE,9,15,4,food & drinks
+2023-09-15 07:28:22.793,45.0,transport,Cash,transport,EXPENSE,9,15,4,transport
+2023-09-15 07:06:00.000,10.0,transport,Savings Bank,drink,EXPENSE,9,15,4,food & drinks
+2023-09-15 07:05:00.000,60.0,food & drinks,Savings Bank,snacks,EXPENSE,9,15,4,food & drinks
+2023-09-14 14:59:36.598,10.0,not defined,Cash,adjust balance,EXPENSE,9,14,3,not defined
+2023-09-14 14:58:22.536,30.0,not defined,Savings Bank,adjust balance,EXPENSE,9,14,3,not defined
+2023-09-14 14:55:20.289,30.0,food & drinks,Savings Bank,snacks,EXPENSE,9,14,3,food & drinks
+2023-09-14 03:08:50.790,56.0,bills & fees,Savings Bank,sid,EXPENSE,9,14,3,bills & fees
+2023-09-14 03:08:38.780,10.0,transport,Cash,bus,EXPENSE,9,14,3,transport
+2023-09-13 03:09:00.000,20.0,transport,Cash,auto,EXPENSE,9,13,2,transport
+2023-09-11 19:11:00.000,20.0,transport,Cash,auto,EXPENSE,9,11,0,transport
+2023-09-11 04:50:42.916,10.0,transport,Cash,bus,EXPENSE,9,11,0,transport
+2023-09-11 04:50:30.609,20.0,transport,Cash,auto,EXPENSE,9,11,0,transport
+2023-09-10 04:50:00.000,140.0,food & drinks,Savings Bank,snacks,EXPENSE,9,10,6,food & drinks
+2023-09-09 11:42:29.034,20.0,transport,Cash,auto,EXPENSE,9,9,5,transport
+2023-09-08 14:57:00.000,64.0,not defined,Savings Bank,savings bank,EXPENSE,9,8,4,not defined
+2023-09-08 09:44:49.580,20.0,transport,Cash,auto,EXPENSE,9,8,4,transport
+2023-09-08 03:30:38.336,10.0,transport,Cash,bus,EXPENSE,9,8,4,transport
+2023-09-07 16:10:20.510,30.0,food & drinks,Cash,snacks,EXPENSE,9,7,3,food & drinks
+2023-09-06 02:53:31.674,10.0,transport,Cash,bus,EXPENSE,9,6,2,transport
+2023-09-06 02:53:22.262,20.0,not defined,Cash,adjust balance,EXPENSE,9,6,2,not defined
+2023-08-23 03:22:20.429,10.0,transport,Cash,bus,EXPENSE,8,23,2,transport
+2023-08-22 03:55:32.936,20.0,transport,Cash,auto,EXPENSE,8,22,1,transport
+2023-08-21 12:24:39.732,430.0,transport,Cash,pass,EXPENSE,8,21,0,transport
+2023-08-21 11:59:41.003,20.0,transport,Cash,auto,EXPENSE,8,21,0,transport
+2023-08-21 11:59:31.716,30.0,transport,Cash,bus,EXPENSE,8,21,0,transport
+2023-08-21 11:59:25.029,20.0,transport,Cash,auto,EXPENSE,8,21,0,transport
+2023-08-18 12:21:05.023,10.0,bills & fees,Cash,chotu,EXPENSE,8,18,4,bills & fees
+2023-08-18 03:45:15.170,20.0,transport,Cash,auto,EXPENSE,8,18,4,transport
+2023-08-18 03:00:24.246,10.0,transport,Cash,bus,EXPENSE,8,18,4,transport
+2023-08-17 06:27:50.681,20.0,transport,Cash,auto,EXPENSE,8,17,3,transport
+2023-08-17 03:01:00.000,20.0,bills & fees,Savings Bank,stickers,EXPENSE,8,17,3,bills & fees
+2023-08-16 17:23:31.644,50.0,bills & fees,Savings Bank,stationary,EXPENSE,8,16,2,bills & fees
+2023-08-16 17:22:57.562,40.0,food & drinks,Savings Bank,juice,EXPENSE,8,16,2,food & drinks
+2023-08-16 17:21:56.218,60.0,food & drinks,Savings Bank,samosa,EXPENSE,8,16,2,food & drinks
+2023-08-16 03:56:23.102,20.0,transport,Cash,auto,EXPENSE,8,16,2,transport
+2023-08-16 01:30:57.325,20.0,transport,Cash,auto,EXPENSE,8,16,2,transport
+2023-08-16 01:30:53.217,20.0,transport,Cash,auto,EXPENSE,8,16,2,transport
+2023-08-15 01:31:00.000,10.0,transport,Cash,bus,EXPENSE,8,15,1,transport
+2023-08-14 11:41:09.051,10.0,transport,Cash,bus,EXPENSE,8,14,0,transport
+2023-08-14 11:41:00.721,15.0,food & drinks,Savings Bank,juice,EXPENSE,8,14,0,food & drinks
+2023-08-14 11:40:29.655,20.0,transport,Cash,auto,EXPENSE,8,14,0,transport
+2023-08-12 03:04:16.418,10.0,transport,Cash,bus,EXPENSE,8,12,5,transport
+2023-08-11 02:23:00.000,20.0,transport,Cash,auto,EXPENSE,8,11,4,transport
+2023-08-10 01:00:00.000,20.0,transport,Cash,auto,EXPENSE,8,10,3,transport
+2023-08-09 10:11:01.692,20.0,transport,Cash,auto,EXPENSE,8,9,2,transport
+2023-08-08 13:26:28.313,30.0,food & drinks,Savings Bank,snacks,EXPENSE,8,8,1,food & drinks
+2023-08-08 03:45:00.000,20.0,transport,Cash,auto,EXPENSE,8,8,1,transport
+2023-08-07 13:27:00.000,10.0,transport,Cash,bus,EXPENSE,8,7,0,transport
+2023-08-05 07:31:26.364,20.0,transport,Savings Bank,auto,EXPENSE,8,5,5,transport
+2023-08-05 07:31:12.973,40.0,transport,Cash,auto,EXPENSE,8,5,5,transport
+2023-08-04 18:25:31.566,20.0,food & drinks,Savings Bank,snacks,EXPENSE,8,4,4,food & drinks
+2023-08-04 13:58:29.716,10.0,transport,Cash,bus,EXPENSE,8,4,4,transport
+2023-08-02 07:21:44.095,470.0,bills & fees,Savings Bank,computer stuff,EXPENSE,8,2,2,bills & fees
+2023-07-31 11:50:01.801,10.0,not defined,Savings Bank,goje,EXPENSE,7,31,0,food & drinks
+2023-07-31 07:19:06.638,20.0,transport,Cash,auto,EXPENSE,7,31,0,transport
+2023-07-31 03:03:09.712,10.0,transport,Cash,bus,EXPENSE,7,31,0,transport
+2023-07-29 14:13:08.456,120.0,food & drinks,Savings Bank,shawarma,EXPENSE,7,29,5,food & drinks
+2023-07-28 15:05:24.026,30.0,not defined,Cash,adjust balance,EXPENSE,7,28,4,not defined
+2023-07-28 05:58:44.561,10.0,transport,Cash,bus,EXPENSE,7,28,4,transport
+2023-07-28 05:38:02.624,10.0,transport,Cash,bus,EXPENSE,7,28,4,transport
+2023-07-27 10:22:06.462,10.0,transport,Cash,bus,EXPENSE,7,27,3,transport
+2023-07-24 16:09:23.521,20.0,transport,Cash,auto,EXPENSE,7,24,0,transport
+2023-07-23 06:55:40.729,20.0,bills & fees,Cash,chotu,EXPENSE,7,23,6,bills & fees
+2023-07-22 06:01:00.000,5.0,bills & fees,Savings Bank,something,EXPENSE,7,22,5,bills & fees
+2023-07-21 15:34:14.642,259.0,bills & fees,Savings Bank,recharge,EXPENSE,7,21,4,bills & fees
+2023-07-19 02:56:14.234,10.0,not defined,Cash,adjust balance,EXPENSE,7,19,2,not defined
+2023-07-19 02:55:50.783,10.0,transport,Cash,bus,EXPENSE,7,19,2,transport
+2023-07-18 12:50:17.986,48.0,bills & fees,Savings Bank,curd,EXPENSE,7,18,1,food & drinks
+2023-07-14 15:04:43.725,20.0,transport,Cash,auto,EXPENSE,7,14,4,transport
+2023-07-14 14:24:00.000,80.0,food & drinks,Savings Bank,snacks,EXPENSE,7,14,4,food & drinks
+2023-07-13 19:04:18.558,10.0,not defined,Savings Bank,adjust balance,EXPENSE,7,13,3,not defined
+2023-07-13 19:03:25.820,95.0,not defined,Metro Card,adjust balance,EXPENSE,7,13,3,not defined
+2023-07-12 12:30:17.265,10.0,transport,Cash,bus,EXPENSE,7,12,2,transport
+2023-07-12 12:29:43.822,20.0,food & drinks,Cash,juice,EXPENSE,7,12,2,food & drinks
+2023-07-12 12:29:31.596,50.0,food & drinks,Savings Bank,snacks,EXPENSE,7,12,2,food & drinks
+2023-07-12 12:29:17.648,20.0,transport,Cash,auto,EXPENSE,7,12,2,transport
+2023-07-10 11:56:25.016,20.0,transport,Cash,auto,EXPENSE,7,10,0,transport
+2023-07-05 11:40:48.962,10.0,transport,Cash,bus,EXPENSE,7,5,2,transport
+2023-07-05 03:13:37.014,20.0,transport,Cash,auto,EXPENSE,7,5,2,transport
+2023-07-04 02:56:22.663,10.0,bills & fees,Savings Bank,pen,EXPENSE,7,4,1,transport
+2023-06-13 18:09:08.763,60.0,food & drinks,Savings Bank,savings bank,EXPENSE,6,13,1,not defined
+2023-06-12 18:05:00.000,20.0,food & drinks,Savings Bank,goje,EXPENSE,6,12,0,food & drinks
+2023-06-11 10:05:00.000,11500.0,bills & fees,Savings Bank,mom,EXPENSE,6,11,6,bills & fees
+2023-06-10 10:03:00.000,180.0,bills & fees,Savings Bank,book,EXPENSE,6,10,5,bills & fees
+2023-06-10 03:21:34.716,10.0,transport,Cash,bus,EXPENSE,6,10,5,transport
+2023-06-09 13:23:56.829,10.0,transport,Cash,bus,EXPENSE,6,9,4,transport
+2023-06-09 03:44:35.554,20.0,transport,Cash,bus,EXPENSE,6,9,4,transport
+2023-06-09 02:53:59.302,50.0,not defined,Cash,maa,EXPENSE,6,9,4,bills & fees
+2023-06-08 03:49:50.091,10.0,transport,Cash,bus,EXPENSE,6,8,3,transport
+2023-06-07 15:20:03.899,20.0,food & drinks,Savings Bank,juice,EXPENSE,6,7,2,food & drinks
+2023-06-07 15:19:49.292,800.0,bills & fees,Savings Bank,exam fees,EXPENSE,6,7,2,bills & fees
+2023-06-07 04:21:48.834,20.0,transport,Cash,auto,EXPENSE,6,7,2,transport
+2023-06-07 04:21:35.377,360.0,bills & fees,Savings Bank,record books,EXPENSE,6,7,2,bills & fees
+2023-06-06 18:01:41.671,60.0,not defined,Cash,adjust,EXPENSE,6,6,1,not defined
+2023-06-06 18:01:18.614,100.0,not defined,Cash,adjust,EXPENSE,6,6,1,not defined
+2023-06-06 04:14:57.334,20.0,transport,Savings Bank,auto,EXPENSE,6,6,1,transport
+2023-06-05 13:00:00.000,20.0,transport,Savings Bank,auto,EXPENSE,6,5,0,transport
+2023-06-05 12:30:00.000,10.0,food & drinks,Savings Bank,juice,EXPENSE,6,5,0,food & drinks
+2023-06-05 12:30:00.000,25.0,food & drinks,Savings Bank,snacks,EXPENSE,6,5,0,food & drinks
+2023-06-05 03:16:08.866,20.0,transport,Savings Bank,auto,EXPENSE,6,5,0,transport
+2023-06-04 18:47:36.659,40.0,not defined,Savings Bank,adjust,EXPENSE,6,4,6,not defined
+2023-06-03 11:48:00.000,20.0,food & drinks,Savings Bank,juice,EXPENSE,6,3,5,food & drinks
+2023-06-03 08:04:55.844,20.0,food & drinks,Savings Bank,juice,EXPENSE,6,3,5,food & drinks
+2023-06-02 12:14:12.385,30.0,transport,Cash,bus,EXPENSE,6,2,4,transport
+2023-06-01 12:20:58.789,10.0,transport,Cash,bus,EXPENSE,6,1,3,transport
+2023-06-01 04:20:00.000,53.27,bills & fees,Savings Bank,medic,EXPENSE,6,1,3,bills & fees
+2023-05-31 13:02:43.008,10.0,transport,Cash,bus,EXPENSE,5,31,2,transport
+2023-05-31 04:17:20.895,20.0,transport,Cash,bus,EXPENSE,5,31,2,transport
+2023-05-30 03:39:15.249,20.0,transport,Cash,auto,EXPENSE,5,30,1,transport
+2023-05-30 03:39:06.540,10.0,not defined,Cash,maa,EXPENSE,5,30,1,bills & fees
+2023-05-29 11:50:56.495,20.0,food & drinks,Savings Bank,juice,EXPENSE,5,29,0,food & drinks
+2023-05-29 03:36:54.746,20.0,transport,Savings Bank,auto,EXPENSE,5,29,0,transport
+2023-05-28 15:13:59.660,3499.0,bills & fees,Savings Bank,suit,EXPENSE,5,28,6,bills & fees
+2023-05-27 04:47:59.367,30.0,food & drinks,Savings Bank,breakfast,EXPENSE,5,27,5,food & drinks
+2023-05-26 06:05:40.130,1400.0,not defined,Savings Bank,baba payback,EXPENSE,5,26,4,bills & fees
+2023-05-25 11:24:27.236,10.0,transport,Cash,bus,EXPENSE,5,25,3,transport
+2023-05-25 11:24:15.787,20.0,transport,Cash,bus,EXPENSE,5,25,3,transport
+2023-05-24 10:29:10.540,25.0,food & drinks,Savings Bank,juice,EXPENSE,5,24,2,food & drinks
+2023-05-24 10:28:56.973,20.0,transport,Cash,auto,EXPENSE,5,24,2,transport
+2023-05-23 13:28:23.128,50.0,transport,Cash,autobus,EXPENSE,5,23,1,transport
+2023-05-23 03:57:00.000,10.0,transport,Cash,bus,EXPENSE,5,23,1,transport
+2023-05-23 03:00:20.601,10.0,transport,Cash,bus,EXPENSE,5,23,1,transport
+2023-05-23 02:26:57.406,10.0,transport,Cash,bus,EXPENSE,5,23,1,transport
+2023-05-21 20:27:42.687,259.0,bills & fees,Savings Bank,recharge,EXPENSE,5,21,6,bills & fees
+2023-05-20 17:07:32.488,100.0,food & drinks,Savings Bank,snacks,EXPENSE,5,20,5,food & drinks
+2023-05-20 08:15:26.239,30.0,food & drinks,Savings Bank,ice cream,EXPENSE,5,20,5,food & drinks
+2023-05-20 04:42:19.438,10.0,not defined,Cash,chotu,EXPENSE,5,20,5,bills & fees
+2023-05-19 13:28:16.140,430.0,transport,Cash,bus pass,EXPENSE,5,19,4,transport
+2023-05-18 13:29:54.579,75.0,food & drinks,Savings Bank,ice cream,EXPENSE,5,18,3,food & drinks
+2023-05-18 13:29:36.443,35.0,transport,Metro Card,rta,EXPENSE,5,18,3,transport
+2023-05-18 09:46:00.000,30.0,food & drinks,Cash,snacks,EXPENSE,5,18,3,food & drinks
+2023-05-18 09:45:00.000,10.0,transport,Cash,bus,EXPENSE,5,18,3,transport
+2023-05-17 01:40:00.000,30.0,transport,Cash,bus,EXPENSE,5,17,2,transport
+2023-05-16 15:04:00.000,20.0,transport,Cash,bus,EXPENSE,5,16,1,transport
+2023-05-16 14:01:02.385,30.0,food & drinks,Cash,snacks,EXPENSE,5,16,1,food & drinks
+2023-05-14 05:12:00.000,631.0,not defined,Savings Bank,sid payup,EXPENSE,5,14,6,bills & fees
+2023-05-13 14:15:00.000,40.0,food & drinks,Savings Bank,juice,EXPENSE,5,13,5,food & drinks
+2023-05-13 14:15:00.000,10.0,food & drinks,Savings Bank,juice,EXPENSE,5,13,5,food & drinks
+2023-05-13 06:28:00.000,20.0,transport,Cash,auto,EXPENSE,5,13,5,transport
+2023-05-12 03:30:17.477,20.0,transport,Savings Bank,auto,EXPENSE,5,12,4,transport
+2023-05-11 03:30:00.000,20.0,transport,Cash,auto,EXPENSE,5,11,3,transport
+2023-05-10 17:28:47.675,20.0,transport,Cash,auto,EXPENSE,5,10,2,transport
+2023-05-10 17:28:31.997,15.0,food & drinks,Cash,snacks,EXPENSE,5,10,2,food & drinks
+2023-05-09 10:50:44.097,10.0,transport,Cash,bus rtg,EXPENSE,5,9,1,transport
+2023-05-09 04:11:00.000,10.0,transport,Cash,bus,EXPENSE,5,9,1,transport
+2023-05-08 18:09:26.912,10.0,transport,Cash,bus,EXPENSE,5,8,0,transport
+2023-05-08 04:40:28.771,20.0,transport,Cash,auto,EXPENSE,5,8,0,transport
+2023-05-07 18:27:02.170,8.0,bills & fees,Savings Bank,savings bank,EXPENSE,5,7,6,not defined
+2023-05-07 18:26:42.987,30.0,food & drinks,Savings Bank,snack,EXPENSE,5,7,6,transport
+2023-05-06 04:32:04.945,10.0,transport,Cash,bus,EXPENSE,5,6,5,transport
+2023-05-06 04:31:50.149,20.0,transport,Cash,auto,EXPENSE,5,6,5,transport
+2023-05-05 09:19:02.128,70.0,food & drinks,Savings Bank,bonda,EXPENSE,5,5,4,food & drinks
+2023-05-04 04:35:17.739,20.0,transport,Cash,auto,EXPENSE,5,4,3,transport
+2023-05-03 18:12:04.495,35.0,transport,Metro Card,rta,EXPENSE,5,3,2,transport
+2023-05-03 18:11:48.626,20.0,transport,Cash,bus,EXPENSE,5,3,2,transport
+2023-05-03 18:11:15.950,20.0,transport,Cash,bus,EXPENSE,5,3,2,transport
+2023-05-02 15:19:23.832,5.0,bills & fees,Savings Bank,glasses,EXPENSE,5,2,1,transport
+2023-05-02 15:19:05.941,10.0,transport,Cash,bus,EXPENSE,5,2,1,transport
+2023-05-02 03:28:33.128,20.0,transport,Cash,bus,EXPENSE,5,2,1,transport
+2023-05-01 15:51:41.472,10.0,transport,Cash,bus,EXPENSE,5,1,0,transport
+2023-05-01 03:35:26.574,10.0,transport,Cash,bus,EXPENSE,5,1,0,transport
+2023-04-29 20:38:00.000,1600.0,bills & fees,Savings Bank,baba,EXPENSE,4,29,5,bills & fees
+2023-04-29 04:36:18.911,10.0,transport,Cash,bus,EXPENSE,4,29,5,transport
+2023-04-28 18:05:24.511,10.0,transport,Cash,bus,EXPENSE,4,28,4,transport
+2023-04-28 18:05:12.294,10.0,transport,Cash,bus rtg,EXPENSE,4,28,4,transport
+2023-04-28 18:04:53.428,35.0,transport,Metro Card,atr,EXPENSE,4,28,4,transport
+2023-04-28 10:25:37.433,10.0,transport,Cash,bus,EXPENSE,4,28,4,transport
+2023-04-28 10:25:25.543,20.0,transport,Cash,auto,EXPENSE,4,28,4,transport
+2023-04-28 10:25:16.491,20.0,transport,Cash,auto,EXPENSE,4,28,4,transport
+2023-04-27 13:04:44.625,98.0,food & drinks,Savings Bank,ice cream,EXPENSE,4,27,3,food & drinks
+2023-04-27 13:04:24.531,30.0,food & drinks,Savings Bank,water,EXPENSE,4,27,3,food & drinks
+2023-04-27 13:03:59.049,80.0,food & drinks,Cash,fried rice,EXPENSE,4,27,3,transport
+2023-04-27 13:03:46.473,49.0,food & drinks,Savings Bank,goli soda,EXPENSE,4,27,3,food & drinks
+2023-04-27 06:59:00.000,20.0,transport,Savings Bank,auto,EXPENSE,4,27,3,transport
+2023-04-27 06:18:43.826,20.0,transport,Cash,auto,EXPENSE,4,27,3,transport
+2023-04-26 16:19:30.311,35.0,transport,Metro Card,rta,EXPENSE,4,26,2,transport
+2023-04-26 13:36:29.167,20.0,food & drinks,Savings Bank,juice,EXPENSE,4,26,2,food & drinks
+2023-04-26 06:32:33.046,10.0,transport,Cash,bus rtg,EXPENSE,4,26,2,transport
+2023-04-26 06:32:09.979,40.0,transport,Metro Card,btr,EXPENSE,4,26,2,transport
+2023-04-26 04:44:42.132,200.0,bills & fees,Savings Bank,metro recharge,EXPENSE,4,26,2,bills & fees
+2023-04-25 15:20:23.634,31.5,transport,Metro Card,rta,EXPENSE,4,25,1,transport
+2023-04-25 15:08:52.646,99.0,food & drinks,Savings Bank,burger am,EXPENSE,4,25,1,food & drinks
+2023-04-25 11:42:32.690,10.0,transport,Cash,bus rtg,EXPENSE,4,25,1,transport
+2023-04-25 11:42:19.774,35.0,transport,Metro Card,atr,EXPENSE,4,25,1,transport
+2023-04-24 15:42:02.351,31.5,transport,Metro Card,rta,EXPENSE,4,24,0,transport
+2023-04-24 14:52:19.390,10.0,transport,Cash,bus gtr,EXPENSE,4,24,0,transport
+2023-04-24 12:47:55.727,5.0,not defined,Cash,sq bands,EXPENSE,4,24,0,transport
+2023-04-24 12:47:34.484,10.0,transport,Cash,bus rtg,EXPENSE,4,24,0,transport
+2023-04-24 12:47:18.442,35.0,transport,Metro Card,atr,EXPENSE,4,24,0,transport
+2023-04-24 10:12:24.068,20.0,food & drinks,Savings Bank,water,EXPENSE,4,24,0,food & drinks
+2023-04-24 09:13:25.670,30.0,food & drinks,Savings Bank,frooti,EXPENSE,4,24,0,food & drinks
+2023-04-24 07:16:21.496,30.0,food & drinks,Cash,water,EXPENSE,4,24,0,food & drinks
+2023-04-24 06:53:00.000,30.0,not defined,Savings Bank,fac,EXPENSE,4,24,0,transport
+2023-04-24 06:03:29.520,20.0,transport,Cash,auto,EXPENSE,4,24,0,transport
+2023-04-23 13:50:23.357,750.0,bills & fees,Savings Bank,shirt,EXPENSE,4,23,6,bills & fees
+2023-04-23 06:49:00.000,23.6,not defined,Savings Bank,to transfer insufficient bal pos decline charge,EXPENSE,4,23,6,not defined
+2023-04-22 15:12:02.162,1109.0,bills & fees,Savings Bank,savings bank,EXPENSE,4,22,5,not defined
+2023-04-22 15:11:40.053,1398.0,bills & fees,Savings Bank,savings bank,EXPENSE,4,22,5,not defined
+2023-04-22 12:05:08.538,20.0,transport,Cash,cash,EXPENSE,4,22,5,transport
+2023-04-22 10:39:20.483,259.0,bills & fees,Savings Bank,mobile,EXPENSE,4,22,5,bills & fees
+2023-04-22 07:48:32.170,130.0,not defined,Savings Bank,stonks,EXPENSE,4,22,5,bills & fees
